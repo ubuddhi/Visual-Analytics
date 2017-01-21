@@ -1,0 +1,3796 @@
+[
+  {
+     "General Offense Number":2010057087
+    ,"Event Clearance Code":30
+    ,"Event Clearance Description":"ARMED ROBBERY"
+    ,"Event Date":"02/19/10"
+    ,"Event Year":2010
+    ,"District/Sector":"M"
+    ,"Zone/Beat":"M1"
+    ,"Longitude":-122.3525104
+    ,"Latitude":47.616918
+  },
+  {
+     "General Offense Number":2010247737
+    ,"Event Clearance Code":30
+    ,"Event Clearance Description":"ARMED ROBBERY"
+    ,"Event Date":"07/18/10"
+    ,"Event Year":2010
+    ,"District/Sector":"F"
+    ,"Zone/Beat":"F3"
+    ,"Longitude":-122.3269353
+    ,"Latitude":47.52392759
+  },
+  {
+     "General Offense Number":2010247894
+    ,"Event Clearance Code":30
+    ,"Event Clearance Description":"ARMED ROBBERY"
+    ,"Event Date":"07/19/10"
+    ,"Event Year":2010
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S3"
+    ,"Longitude":-122.2699954
+    ,"Latitude":47.52165752
+  },
+  {
+     "General Offense Number":2010248442
+    ,"Event Clearance Code":30
+    ,"Event Clearance Description":"ARMED ROBBERY"
+    ,"Event Date":"07/19/10"
+    ,"Event Year":2010
+    ,"District/Sector":"G"
+    ,"Zone/Beat":"G2"
+    ,"Longitude":-122.3134365
+    ,"Latitude":47.59665466
+  },
+  {
+     "General Offense Number":2010248403
+    ,"Event Clearance Code":30
+    ,"Event Clearance Description":"ARMED ROBBERY"
+    ,"Event Date":"07/19/10"
+    ,"Event Year":2010
+    ,"District/Sector":"B"
+    ,"Zone/Beat":"B1"
+    ,"Longitude":-122.3936798
+    ,"Latitude":47.69345091
+  },
+  {
+     "General Offense Number":2010216362
+    ,"Event Clearance Code":49
+    ,"Event Clearance Description":"ASSAULTS, GANG RELATED"
+    ,"Event Date":"06/26/10"
+    ,"Event Year":2010
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S2"
+    ,"Longitude":-122.2713768
+    ,"Latitude":47.52167409
+  },
+  {
+     "General Offense Number":2010286572
+    ,"Event Clearance Code":49
+    ,"Event Clearance Description":"ASSAULTS, GANG RELATED"
+    ,"Event Date":"08/17/10"
+    ,"Event Year":2010
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S3"
+    ,"Longitude":-122.2686501
+    ,"Latitude":47.52330384
+  },
+  {
+     "General Offense Number":2010288244
+    ,"Event Clearance Code":49
+    ,"Event Clearance Description":"ASSAULTS, GANG RELATED"
+    ,"Event Date":"08/18/10"
+    ,"Event Year":2010
+    ,"District/Sector":"F"
+    ,"Zone/Beat":"F1"
+    ,"Longitude":-122.3611859
+    ,"Latitude":47.53726585
+  },
+  {
+     "General Offense Number":2010297465
+    ,"Event Clearance Code":49
+    ,"Event Clearance Description":"ASSAULTS, GANG RELATED"
+    ,"Event Date":"08/25/10"
+    ,"Event Year":2010
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S2"
+    ,"Longitude":-122.2699896
+    ,"Latitude":47.53096562
+  },
+  {
+     "General Offense Number":2010305394
+    ,"Event Clearance Code":49
+    ,"Event Clearance Description":"ASSAULTS, GANG RELATED"
+    ,"Event Date":"09/01/10"
+    ,"Event Year":2010
+    ,"District/Sector":"L"
+    ,"Zone/Beat":"L3"
+    ,"Longitude":-122.2831548
+    ,"Latitude":47.66458232
+  },
+  {
+     "General Offense Number":2010317852
+    ,"Event Clearance Code":49
+    ,"Event Clearance Description":"ASSAULTS, GANG RELATED"
+    ,"Event Date":"09/10/10"
+    ,"Event Year":2010
+    ,"District/Sector":"O"
+    ,"Zone/Beat":"O3"
+    ,"Longitude":-122.293751
+    ,"Latitude":47.53891249
+  },
+  {
+     "General Offense Number":2010840
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/01/10"
+    ,"Event Year":2010
+    ,"District/Sector":"C"
+    ,"Zone/Beat":"C2"
+    ,"Longitude":-122.3053295
+    ,"Latitude":47.6244083
+  },
+  {
+     "General Offense Number":2010005912
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/06/10"
+    ,"Event Year":2010
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S3"
+    ,"Longitude":-122.2700354
+    ,"Latitude":47.51494446
+  },
+  {
+     "General Offense Number":2010011937
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/11/10"
+    ,"Event Year":2010
+    ,"District/Sector":"N"
+    ,"Zone/Beat":"N3"
+    ,"Longitude":-122.3350498
+    ,"Latitude":47.69867736
+  },
+  {
+     "General Offense Number":2010056629
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"02/19/10"
+    ,"Event Year":2010
+    ,"District/Sector":"Q"
+    ,"Zone/Beat":"Q1"
+    ,"Longitude":-122.4046738
+    ,"Latitude":47.64772143
+  },
+  {
+     "General Offense Number":2010064656
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"02/26/10"
+    ,"Event Year":2010
+    ,"District/Sector":"Q"
+    ,"Zone/Beat":"Q2"
+    ,"Longitude":-122.3555459
+    ,"Latitude":47.6436808
+  },
+  {
+     "General Offense Number":2010103344
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"03/30/10"
+    ,"Event Year":2010
+    ,"District/Sector":"Q"
+    ,"Zone/Beat":"Q2"
+    ,"Longitude":-122.359462
+    ,"Latitude":47.64689533
+  },
+  {
+     "General Offense Number":2010206512
+    ,"Event Clearance Code":62
+    ,"Event Clearance Description":"BICYCLE THEFT"
+    ,"Event Date":"06/18/10"
+    ,"Event Year":2010
+    ,"District/Sector":"N"
+    ,"Zone/Beat":"N1"
+    ,"Longitude":-122.3375827
+    ,"Latitude":47.72685452
+  },
+  {
+     "General Offense Number":2010215529
+    ,"Event Clearance Code":62
+    ,"Event Clearance Description":"BICYCLE THEFT"
+    ,"Event Date":"06/25/10"
+    ,"Event Year":2010
+    ,"District/Sector":"J"
+    ,"Zone/Beat":"J3"
+    ,"Longitude":-122.3256433
+    ,"Latitude":47.66134675
+  },
+  {
+     "General Offense Number":2010246289
+    ,"Event Clearance Code":62
+    ,"Event Clearance Description":"BICYCLE THEFT"
+    ,"Event Date":"07/17/10"
+    ,"Event Year":2010
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S1"
+    ,"Longitude":-122.2965297
+    ,"Latitude":47.53925868
+  },
+  {
+     "General Offense Number":2010246983
+    ,"Event Clearance Code":62
+    ,"Event Clearance Description":"BICYCLE THEFT"
+    ,"Event Date":"07/18/10"
+    ,"Event Year":2010
+    ,"District/Sector":"R"
+    ,"Zone/Beat":"R1"
+    ,"Longitude":-122.2872107
+    ,"Latitude":47.57303502
+  },
+  {
+     "General Offense Number":2010247388
+    ,"Event Clearance Code":62
+    ,"Event Clearance Description":"BICYCLE THEFT"
+    ,"Event Date":"07/18/10"
+    ,"Event Year":2010
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S1"
+    ,"Longitude":-122.2833758
+    ,"Latitude":47.54787393
+  },
+  {
+     "General Offense Number":2010248363
+    ,"Event Clearance Code":62
+    ,"Event Clearance Description":"BICYCLE THEFT"
+    ,"Event Date":"07/19/10"
+    ,"Event Year":2010
+    ,"District/Sector":"B"
+    ,"Zone/Beat":"B3"
+    ,"Longitude":-122.3761171
+    ,"Latitude":47.685061
+  },
+  {
+     "General Offense Number":2010248891
+    ,"Event Clearance Code":62
+    ,"Event Clearance Description":"BICYCLE THEFT"
+    ,"Event Date":"07/19/10"
+    ,"Event Year":2010
+    ,"District/Sector":"E"
+    ,"Zone/Beat":"E3"
+    ,"Longitude":-122.3234439
+    ,"Latitude":47.60412807
+  },
+  {
+     "General Offense Number":2010147796
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"05/06/10"
+    ,"Event Year":2010
+    ,"District/Sector":"O"
+    ,"Zone/Beat":"O3"
+    ,"Longitude":-122.3134829
+    ,"Latitude":47.5523443
+  },
+  {
+     "General Offense Number":2010214380
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"06/24/10"
+    ,"Event Year":2010
+    ,"District/Sector":"U"
+    ,"Zone/Beat":"U2"
+    ,"Longitude":-122.3208342
+    ,"Latitude":47.66003568
+  },
+  {
+     "General Offense Number":2010223312
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"07/01/10"
+    ,"Event Year":2010
+    ,"District/Sector":"B"
+    ,"Zone/Beat":"B3"
+    ,"Longitude":-122.3526025
+    ,"Latitude":47.68875031
+  },
+  {
+     "General Offense Number":2010246510
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"07/17/10"
+    ,"Event Year":2010
+    ,"District/Sector":"U"
+    ,"Zone/Beat":"U3"
+    ,"Longitude":-122.3118915
+    ,"Latitude":47.6700834
+  },
+  {
+     "General Offense Number":2010247132
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"07/18/10"
+    ,"Event Year":2010
+    ,"District/Sector":"L"
+    ,"Zone/Beat":"L2"
+    ,"Longitude":-122.2911379
+    ,"Latitude":47.71829137
+  },
+  {
+     "General Offense Number":2010248748
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"07/19/10"
+    ,"Event Year":2010
+    ,"District/Sector":"G"
+    ,"Zone/Beat":"G1"
+    ,"Longitude":-122.310151
+    ,"Latitude":47.61601653
+  },
+  {
+     "General Offense Number":2010249378
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"07/20/10"
+    ,"Event Year":2010
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S2"
+    ,"Longitude":-122.2713768
+    ,"Latitude":47.52167409
+  },
+  {
+     "General Offense Number":2010154380
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"05/11/10"
+    ,"Event Year":2010
+    ,"District/Sector":"L"
+    ,"Zone/Beat":"L2"
+    ,"Longitude":-122.3134847
+    ,"Latitude":47.69580644
+  },
+  {
+     "General Offense Number":2010158257
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"05/14/10"
+    ,"Event Year":2010
+    ,"District/Sector":"R"
+    ,"Zone/Beat":"R2"
+    ,"Longitude":-122.2950635
+    ,"Latitude":47.56331728
+  },
+  {
+     "General Offense Number":2010172608
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"05/25/10"
+    ,"Event Year":2010
+    ,"District/Sector":"B"
+    ,"Zone/Beat":"B1"
+    ,"Longitude":-122.3875573
+    ,"Latitude":47.70081709
+  },
+  {
+     "General Offense Number":2010220081
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"06/28/10"
+    ,"Event Year":2010
+    ,"District/Sector":"J"
+    ,"Zone/Beat":"J1"
+    ,"Longitude":-122.3485609
+    ,"Latitude":47.68766363
+  },
+  {
+     "General Offense Number":2010222722
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"07/01/10"
+    ,"Event Year":2010
+    ,"District/Sector":"U"
+    ,"Zone/Beat":"U1"
+    ,"Longitude":-122.3187318
+    ,"Latitude":47.67875451
+  },
+  {
+     "General Offense Number":2010231022
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"07/06/10"
+    ,"Event Year":2010
+    ,"District/Sector":"B"
+    ,"Zone/Beat":"B1"
+    ,"Longitude":-122.3555529
+    ,"Latitude":47.72595532
+  },
+  {
+     "General Offense Number":2010279849
+    ,"Event Clearance Code":121
+    ,"Event Clearance Description":"GAMBLING"
+    ,"Event Date":"08/11/10"
+    ,"Event Year":2010
+    ,"District/Sector":"E"
+    ,"Zone/Beat":"E3"
+    ,"Longitude":-122.3201595
+    ,"Latitude":47.60169934
+  },
+  {
+     "General Offense Number":2010310265
+    ,"Event Clearance Code":121
+    ,"Event Clearance Description":"GAMBLING"
+    ,"Event Date":"09/04/10"
+    ,"Event Year":2010
+    ,"District/Sector":"D"
+    ,"Zone/Beat":"D1"
+    ,"Longitude":-122.3475768
+    ,"Latitude":47.62390211
+  },
+  {
+     "General Offense Number":2010384573
+    ,"Event Clearance Code":121
+    ,"Event Clearance Description":"GAMBLING"
+    ,"Event Date":"11/03/10"
+    ,"Event Year":2010
+    ,"District/Sector":"N"
+    ,"Zone/Beat":"N2"
+    ,"Longitude":-122.3506121
+    ,"Latitude":47.69240429
+  },
+  {
+     "General Offense Number":2010246454
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"07/17/10"
+    ,"Event Year":2010
+    ,"District/Sector":"U"
+    ,"Zone/Beat":"U1"
+    ,"Longitude":-122.3142558
+    ,"Latitude":47.67274446
+  },
+  {
+     "General Offense Number":2010246496
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"07/17/10"
+    ,"Event Year":2010
+    ,"District/Sector":"D"
+    ,"Zone/Beat":"D1"
+    ,"Longitude":-122.3521398
+    ,"Latitude":47.62457135
+  },
+  {
+     "General Offense Number":2010246592
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"07/17/10"
+    ,"Event Year":2010
+    ,"District/Sector":"B"
+    ,"Zone/Beat":"B2"
+    ,"Longitude":-122.3775487
+    ,"Latitude":47.66944418
+  },
+  {
+     "General Offense Number":2010246830
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"07/18/10"
+    ,"Event Year":2010
+    ,"District/Sector":"U"
+    ,"Zone/Beat":"U2"
+    ,"Longitude":-122.3197773
+    ,"Latitude":47.66038656
+  },
+  {
+     "General Offense Number":2010246840
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"07/18/10"
+    ,"Event Year":2010
+    ,"District/Sector":"U"
+    ,"Zone/Beat":"U2"
+    ,"Longitude":-122.3197773
+    ,"Latitude":47.66038656
+  },
+  {
+     "General Offense Number":2010246856
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"07/18/10"
+    ,"Event Year":2010
+    ,"District/Sector":"F"
+    ,"Zone/Beat":"F2"
+    ,"Longitude":-122.3570852
+    ,"Latitude":47.52828546
+  },
+  {
+     "General Offense Number":201197
+    ,"Event Clearance Code":30
+    ,"Event Clearance Description":"ARMED ROBBERY"
+    ,"Event Date":"01/01/11"
+    ,"Event Year":2011
+    ,"District/Sector":"D"
+    ,"Zone/Beat":"D1"
+    ,"Longitude":-122.3475953
+    ,"Latitude":47.62207269
+  },
+  {
+     "General Offense Number":20111064
+    ,"Event Clearance Code":30
+    ,"Event Clearance Description":"ARMED ROBBERY"
+    ,"Event Date":"01/01/11"
+    ,"Event Year":2011
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S3"
+    ,"Longitude":-122.2653306
+    ,"Latitude":47.5213716
+  },
+  {
+     "General Offense Number":20111572
+    ,"Event Clearance Code":30
+    ,"Event Clearance Description":"ARMED ROBBERY"
+    ,"Event Date":"01/02/11"
+    ,"Event Year":2011
+    ,"District/Sector":"E"
+    ,"Zone/Beat":"E2"
+    ,"Longitude":-122.3230161
+    ,"Latitude":47.6112125
+  },
+  {
+     "General Offense Number":20111755
+    ,"Event Clearance Code":30
+    ,"Event Clearance Description":"ARMED ROBBERY"
+    ,"Event Date":"01/02/11"
+    ,"Event Year":2011
+    ,"District/Sector":"K"
+    ,"Zone/Beat":"K1"
+    ,"Longitude":-122.3373388
+    ,"Latitude":47.60925298
+  },
+  {
+     "General Offense Number":2011400
+    ,"Event Clearance Code":49
+    ,"Event Clearance Description":"ASSAULTS, GANG RELATED"
+    ,"Event Date":"01/01/11"
+    ,"Event Year":2011
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S3"
+    ,"Longitude":-122.2615904
+    ,"Latitude":47.51978102
+  },
+  {
+     "General Offense Number":2011103320
+    ,"Event Clearance Code":49
+    ,"Event Clearance Description":"ASSAULTS, GANG RELATED"
+    ,"Event Date":"03/31/11"
+    ,"Event Year":2011
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S3"
+    ,"Longitude":-122.2700009
+    ,"Latitude":47.51865158
+  },
+  {
+     "General Offense Number":2011104116
+    ,"Event Clearance Code":49
+    ,"Event Clearance Description":"ASSAULTS, GANG RELATED"
+    ,"Event Date":"04/01/11"
+    ,"Event Year":2011
+    ,"District/Sector":"O"
+    ,"Zone/Beat":"O1"
+    ,"Longitude":-122.3147143
+    ,"Latitude":47.581869
+  },
+  {
+     "General Offense Number":2011114596
+    ,"Event Clearance Code":49
+    ,"Event Clearance Description":"ASSAULTS, GANG RELATED"
+    ,"Event Date":"04/10/11"
+    ,"Event Year":2011
+    ,"District/Sector":"G"
+    ,"Zone/Beat":"G1"
+    ,"Longitude":-122.3074098
+    ,"Latitude":47.61673239
+  },
+  {
+     "General Offense Number":2011134003
+    ,"Event Clearance Code":49
+    ,"Event Clearance Description":"ASSAULTS, GANG RELATED"
+    ,"Event Date":"04/27/11"
+    ,"Event Year":2011
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S2"
+    ,"Longitude":-122.2776341
+    ,"Latitude":47.53476731
+  },
+  {
+     "General Offense Number":2011135104
+    ,"Event Clearance Code":49
+    ,"Event Clearance Description":"ASSAULTS, GANG RELATED"
+    ,"Event Date":"04/28/11"
+    ,"Event Year":2011
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S3"
+    ,"Longitude":-122.2695318
+    ,"Latitude":47.52140116
+  },
+  {
+     "General Offense Number":2011316
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/01/11"
+    ,"Event Year":2011
+    ,"District/Sector":"M"
+    ,"Zone/Beat":"M3"
+    ,"Longitude":-122.3384272
+    ,"Latitude":47.60377894
+  },
+  {
+     "General Offense Number":2011364
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/01/11"
+    ,"Event Year":2011
+    ,"District/Sector":"W"
+    ,"Zone/Beat":"W3"
+    ,"Longitude":-122.3777706
+    ,"Latitude":47.54561824
+  },
+  {
+     "General Offense Number":2011454
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/01/11"
+    ,"Event Year":2011
+    ,"District/Sector":"M"
+    ,"Zone/Beat":"M2"
+    ,"Longitude":-122.3383871
+    ,"Latitude":47.6179502
+  },
+  {
+     "General Offense Number":2011440
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/01/11"
+    ,"Event Year":2011
+    ,"District/Sector":"F"
+    ,"Zone/Beat":"F3"
+    ,"Longitude":-122.3149119
+    ,"Latitude":47.52643965
+  },
+  {
+     "General Offense Number":2011590
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/01/11"
+    ,"Event Year":2011
+    ,"District/Sector":"L"
+    ,"Zone/Beat":"L1"
+    ,"Longitude":-122.2952484
+    ,"Latitude":47.72109192
+  },
+  {
+     "General Offense Number":2010448600
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/01/11"
+    ,"Event Year":2011
+    ,"District/Sector":"R"
+    ,"Zone/Beat":"R3"
+    ,"Longitude":-122.2669092
+    ,"Latitude":47.55038073
+  },
+  {
+     "General Offense Number":2010448600
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/01/11"
+    ,"Event Year":2011
+    ,"District/Sector":"R"
+    ,"Zone/Beat":"R3"
+    ,"Longitude":-122.2669092
+    ,"Latitude":47.55038073
+  },
+  {
+     "General Offense Number":2010448471
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/01/11"
+    ,"Event Year":2011
+    ,"District/Sector":"R"
+    ,"Zone/Beat":"R3"
+    ,"Longitude":-122.2669092
+    ,"Latitude":47.55038073
+  },
+  {
+     "General Offense Number":2010448471
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/01/11"
+    ,"Event Year":2011
+    ,"District/Sector":"R"
+    ,"Zone/Beat":"R3"
+    ,"Longitude":-122.2669092
+    ,"Latitude":47.55038073
+  },
+  {
+     "General Offense Number":2011281
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/01/11"
+    ,"Event Year":2011
+    ,"District/Sector":"M"
+    ,"Zone/Beat":"M2"
+    ,"Longitude":-122.3411243
+    ,"Latitude":47.61488028
+  },
+  {
+     "General Offense Number":2011139
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/01/11"
+    ,"Event Year":2011
+    ,"District/Sector":"U"
+    ,"Zone/Beat":"U3"
+    ,"Longitude":-122.3071503
+    ,"Latitude":47.66746428
+  },
+  {
+     "General Offense Number":20111546
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/02/11"
+    ,"Event Year":2011
+    ,"District/Sector":"J"
+    ,"Zone/Beat":"J3"
+    ,"Longitude":-122.3408061
+    ,"Latitude":47.65051794
+  },
+  {
+     "General Offense Number":2011266
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/01/11"
+    ,"Event Year":2011
+    ,"District/Sector":"O"
+    ,"Zone/Beat":"O3"
+    ,"Longitude":-122.3155093
+    ,"Latitude":47.54748245
+  },
+  {
+     "General Offense Number":201163
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/01/11"
+    ,"Event Year":2011
+    ,"District/Sector":"W"
+    ,"Zone/Beat":"W2"
+    ,"Longitude":-122.346013
+    ,"Latitude":47.70288247
+  },
+  {
+     "General Offense Number":201163
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/01/11"
+    ,"Event Year":2011
+    ,"District/Sector":"W"
+    ,"Zone/Beat":"W2"
+    ,"Longitude":-122.346013
+    ,"Latitude":47.70288247
+  },
+  {
+     "General Offense Number":2011491
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/01/11"
+    ,"Event Year":2011
+    ,"District/Sector":"Q"
+    ,"Zone/Beat":"Q2"
+    ,"Longitude":-122.3537728
+    ,"Latitude":47.63741346
+  },
+  {
+     "General Offense Number":2011586
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/01/11"
+    ,"Event Year":2011
+    ,"District/Sector":"W"
+    ,"Zone/Beat":"W3"
+    ,"Longitude":-122.3873068
+    ,"Latitude":47.53641052
+  },
+  {
+     "General Offense Number":2011871
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/01/11"
+    ,"Event Year":2011
+    ,"District/Sector":"W"
+    ,"Zone/Beat":"W3"
+    ,"Longitude":-122.3807122
+    ,"Latitude":47.52380273
+  },
+  {
+     "General Offense Number":2011863
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/01/11"
+    ,"Event Year":2011
+    ,"District/Sector":"R"
+    ,"Zone/Beat":"R3"
+    ,"Longitude":-122.27074
+    ,"Latitude":47.54069668
+  },
+  {
+     "General Offense Number":20111016
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/01/11"
+    ,"Event Year":2011
+    ,"District/Sector":"W"
+    ,"Zone/Beat":"W2"
+    ,"Longitude":-122.3871855
+    ,"Latitude":47.55908121
+  },
+  {
+     "General Offense Number":201194595
+    ,"Event Clearance Code":121
+    ,"Event Clearance Description":"GAMBLING"
+    ,"Event Date":"03/23/11"
+    ,"Event Year":2011
+    ,"District/Sector":"R"
+    ,"Zone/Beat":"R3"
+    ,"Longitude":-122.271247
+    ,"Latitude":47.5402497
+  },
+  {
+     "General Offense Number":2011108956
+    ,"Event Clearance Code":121
+    ,"Event Clearance Description":"GAMBLING"
+    ,"Event Date":"04/05/11"
+    ,"Event Year":2011
+    ,"District/Sector":"C"
+    ,"Zone/Beat":"C1"
+    ,"Longitude":-122.3244861
+    ,"Latitude":47.62936974
+  },
+  {
+     "General Offense Number":2011211617
+    ,"Event Clearance Code":121
+    ,"Event Clearance Description":"GAMBLING"
+    ,"Event Date":"07/01/11"
+    ,"Event Year":2011
+    ,"District/Sector":"G"
+    ,"Zone/Beat":"G2"
+    ,"Longitude":-122.3016853
+    ,"Latitude":47.59928482
+  },
+  {
+     "General Offense Number":2011248098
+    ,"Event Clearance Code":121
+    ,"Event Clearance Description":"GAMBLING"
+    ,"Event Date":"07/30/11"
+    ,"Event Year":2011
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S1"
+    ,"Longitude":-122.2874439
+    ,"Latitude":47.53909709
+  },
+  {
+     "General Offense Number":2011287134
+    ,"Event Clearance Code":121
+    ,"Event Clearance Description":"GAMBLING"
+    ,"Event Date":"08/31/11"
+    ,"Event Year":2011
+    ,"District/Sector":"B"
+    ,"Zone/Beat":"B1"
+    ,"Longitude":-122.3515842
+    ,"Latitude":47.71686981
+  },
+  {
+     "General Offense Number":2011322161
+    ,"Event Clearance Code":121
+    ,"Event Clearance Description":"GAMBLING"
+    ,"Event Date":"09/30/11"
+    ,"Event Year":2011
+    ,"District/Sector":"G"
+    ,"Zone/Beat":"G2"
+    ,"Longitude":-122.3011737
+    ,"Latitude":47.59678551
+  },
+  {
+     "General Offense Number":2011433
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"01/01/11"
+    ,"Event Year":2011
+    ,"District/Sector":"G"
+    ,"Zone/Beat":"G1"
+    ,"Longitude":-122.3114781
+    ,"Latitude":47.61290664
+  },
+  {
+     "General Offense Number":2011575
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"01/01/11"
+    ,"Event Year":2011
+    ,"District/Sector":"M"
+    ,"Zone/Beat":"M3"
+    ,"Longitude":-122.3428796
+    ,"Latitude":47.60981273
+  },
+  {
+     "General Offense Number":2011570
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"01/01/11"
+    ,"Event Year":2011
+    ,"District/Sector":"O"
+    ,"Zone/Beat":"O2"
+    ,"Longitude":-122.32999
+    ,"Latitude":47.57980717
+  },
+  {
+     "General Offense Number":2011608
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"01/01/11"
+    ,"Event Year":2011
+    ,"District/Sector":"K"
+    ,"Zone/Beat":"K3"
+    ,"Longitude":-122.3328785
+    ,"Latitude":47.60087987
+  },
+  {
+     "General Offense Number":2011631
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"01/01/11"
+    ,"Event Year":2011
+    ,"District/Sector":"M"
+    ,"Zone/Beat":"M2"
+    ,"Longitude":-122.3415426
+    ,"Latitude":47.61278241
+  },
+  {
+     "General Offense Number":2011635
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"01/01/11"
+    ,"Event Year":2011
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S3"
+    ,"Longitude":-122.2680301
+    ,"Latitude":47.51985178
+  },
+  {
+     "General Offense Number":2011675
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"01/01/11"
+    ,"Event Year":2011
+    ,"District/Sector":"E"
+    ,"Zone/Beat":"E2"
+    ,"Longitude":-122.3234046
+    ,"Latitude":47.61406725
+  },
+  {
+     "General Offense Number":2011417339
+    ,"Event Clearance Code":30
+    ,"Event Clearance Description":"ARMED ROBBERY"
+    ,"Event Date":"01/01/12"
+    ,"Event Year":2012
+    ,"District/Sector":"D"
+    ,"Zone/Beat":"D1"
+    ,"Longitude":-122.3521398
+    ,"Latitude":47.62457135
+  },
+  {
+     "General Offense Number":2011417247
+    ,"Event Clearance Code":30
+    ,"Event Clearance Description":"ARMED ROBBERY"
+    ,"Event Date":"01/01/12"
+    ,"Event Year":2012
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S2"
+    ,"Longitude":-122.2732145
+    ,"Latitude":47.51798819
+  },
+  {
+     "General Offense Number":2012384
+    ,"Event Clearance Code":30
+    ,"Event Clearance Description":"ARMED ROBBERY"
+    ,"Event Date":"01/01/12"
+    ,"Event Year":2012
+    ,"District/Sector":"M"
+    ,"Zone/Beat":"M2"
+    ,"Longitude":-122.3443545
+    ,"Latitude":47.61327001
+  },
+  {
+     "General Offense Number":20121977
+    ,"Event Clearance Code":30
+    ,"Event Clearance Description":"ARMED ROBBERY"
+    ,"Event Date":"01/03/12"
+    ,"Event Year":2012
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S1"
+    ,"Longitude":-122.2739888
+    ,"Latitude":47.53763237
+  },
+  {
+     "General Offense Number":20122786
+    ,"Event Clearance Code":30
+    ,"Event Clearance Description":"ARMED ROBBERY"
+    ,"Event Date":"01/03/12"
+    ,"Event Year":2012
+    ,"District/Sector":"F"
+    ,"Zone/Beat":"F2"
+    ,"Longitude":-122.367312
+    ,"Latitude":47.52102758
+  },
+  {
+     "General Offense Number":20122916
+    ,"Event Clearance Code":30
+    ,"Event Clearance Description":"ARMED ROBBERY"
+    ,"Event Date":"01/04/12"
+    ,"Event Year":2012
+    ,"District/Sector":"F"
+    ,"Zone/Beat":"F3"
+    ,"Longitude":-122.317584
+    ,"Latitude":47.5264459
+  },
+  {
+     "General Offense Number":2011417206
+    ,"Event Clearance Code":49
+    ,"Event Clearance Description":"ASSAULTS, GANG RELATED"
+    ,"Event Date":"01/01/12"
+    ,"Event Year":2012
+    ,"District/Sector":"D"
+    ,"Zone/Beat":"D3"
+    ,"Longitude":-122.3326984
+    ,"Latitude":47.61256726
+  },
+  {
+     "General Offense Number":20123785
+    ,"Event Clearance Code":49
+    ,"Event Clearance Description":"ASSAULTS, GANG RELATED"
+    ,"Event Date":"01/04/12"
+    ,"Event Year":2012
+    ,"District/Sector":"E"
+    ,"Zone/Beat":"E3"
+    ,"Longitude":-122.3246521
+    ,"Latitude":47.60460902
+  },
+  {
+     "General Offense Number":201210366
+    ,"Event Clearance Code":49
+    ,"Event Clearance Description":"ASSAULTS, GANG RELATED"
+    ,"Event Date":"01/11/12"
+    ,"Event Year":2012
+    ,"District/Sector":"O"
+    ,"Zone/Beat":"O3"
+    ,"Longitude":-122.293751
+    ,"Latitude":47.53891249
+  },
+  {
+     "General Offense Number":201226414
+    ,"Event Clearance Code":49
+    ,"Event Clearance Description":"ASSAULTS, GANG RELATED"
+    ,"Event Date":"01/28/12"
+    ,"Event Year":2012
+    ,"District/Sector":"E"
+    ,"Zone/Beat":"E3"
+    ,"Longitude":-122.3167814
+    ,"Latitude":47.60620199
+  },
+  {
+     "General Offense Number":201227098
+    ,"Event Clearance Code":49
+    ,"Event Clearance Description":"ASSAULTS, GANG RELATED"
+    ,"Event Date":"01/28/12"
+    ,"Event Year":2012
+    ,"District/Sector":"F"
+    ,"Zone/Beat":"F3"
+    ,"Longitude":-122.3149315
+    ,"Latitude":47.52516705
+  },
+  {
+     "General Offense Number":201240426
+    ,"Event Clearance Code":49
+    ,"Event Clearance Description":"ASSAULTS, GANG RELATED"
+    ,"Event Date":"02/10/12"
+    ,"Event Year":2012
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S1"
+    ,"Longitude":-122.2879123
+    ,"Latitude":47.54838772
+  },
+  {
+     "General Offense Number":201260450
+    ,"Event Clearance Code":49
+    ,"Event Clearance Description":"ASSAULTS, GANG RELATED"
+    ,"Event Date":"02/28/12"
+    ,"Event Year":2012
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S2"
+    ,"Longitude":-122.270491
+    ,"Latitude":47.51758436
+  },
+  {
+     "General Offense Number":2012398
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/01/12"
+    ,"Event Year":2012
+    ,"District/Sector":"Q"
+    ,"Zone/Beat":"Q3"
+    ,"Longitude":-122.359342
+    ,"Latitude":47.62211596
+  },
+  {
+     "General Offense Number":2012524
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/01/12"
+    ,"Event Year":2012
+    ,"District/Sector":"W"
+    ,"Zone/Beat":"W3"
+    ,"Longitude":-122.3820588
+    ,"Latitude":47.52382106
+  },
+  {
+     "General Offense Number":2012518
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/01/12"
+    ,"Event Year":2012
+    ,"District/Sector":"L"
+    ,"Zone/Beat":"L1"
+    ,"Longitude":-122.2979954
+    ,"Latitude":47.71653188
+  },
+  {
+     "General Offense Number":2012557
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/01/12"
+    ,"Event Year":2012
+    ,"District/Sector":"U"
+    ,"Zone/Beat":"U1"
+    ,"Longitude":-122.3063349
+    ,"Latitude":47.69302764
+  },
+  {
+     "General Offense Number":2012589
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/01/12"
+    ,"Event Year":2012
+    ,"District/Sector":"J"
+    ,"Zone/Beat":"J1"
+    ,"Longitude":-122.3268718
+    ,"Latitude":47.67155917
+  },
+  {
+     "General Offense Number":2012635
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/01/12"
+    ,"Event Year":2012
+    ,"District/Sector":"C"
+    ,"Zone/Beat":"C1"
+    ,"Longitude":-122.3258899
+    ,"Latitude":47.64087876
+  },
+  {
+     "General Offense Number":2012609
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/01/12"
+    ,"Event Year":2012
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S1"
+    ,"Longitude":-122.2823449
+    ,"Latitude":47.53704402
+  },
+  {
+     "General Offense Number":2012552
+    ,"Event Clearance Code":62
+    ,"Event Clearance Description":"BICYCLE THEFT"
+    ,"Event Date":"01/01/12"
+    ,"Event Year":2012
+    ,"District/Sector":"D"
+    ,"Zone/Beat":"D2"
+    ,"Longitude":-122.3324647
+    ,"Latitude":47.62748318
+  },
+  {
+     "General Offense Number":20121039
+    ,"Event Clearance Code":62
+    ,"Event Clearance Description":"BICYCLE THEFT"
+    ,"Event Date":"01/02/12"
+    ,"Event Year":2012
+    ,"District/Sector":"C"
+    ,"Zone/Beat":"C3"
+    ,"Longitude":-122.2961918
+    ,"Latitude":47.62347436
+  },
+  {
+     "General Offense Number":20121076
+    ,"Event Clearance Code":62
+    ,"Event Clearance Description":"BICYCLE THEFT"
+    ,"Event Date":"01/02/12"
+    ,"Event Year":2012
+    ,"District/Sector":"U"
+    ,"Zone/Beat":"U3"
+    ,"Longitude":-122.3126533
+    ,"Latitude":47.72597794
+  },
+  {
+     "General Offense Number":2012993
+    ,"Event Clearance Code":62
+    ,"Event Clearance Description":"BICYCLE THEFT"
+    ,"Event Date":"01/02/12"
+    ,"Event Year":2012
+    ,"District/Sector":"D"
+    ,"Zone/Beat":"D3"
+    ,"Longitude":-122.3333539
+    ,"Latitude":47.61160583
+  },
+  {
+     "General Offense Number":20121979
+    ,"Event Clearance Code":62
+    ,"Event Clearance Description":"BICYCLE THEFT"
+    ,"Event Date":"01/03/12"
+    ,"Event Year":2012
+    ,"District/Sector":"E"
+    ,"Zone/Beat":"E2"
+    ,"Longitude":-122.3167561
+    ,"Latitude":47.61222596
+  },
+  {
+     "General Offense Number":20122513
+    ,"Event Clearance Code":62
+    ,"Event Clearance Description":"BICYCLE THEFT"
+    ,"Event Date":"01/03/12"
+    ,"Event Year":2012
+    ,"District/Sector":"E"
+    ,"Zone/Beat":"E1"
+    ,"Longitude":-122.3208265
+    ,"Latitude":47.6169873
+  },
+  {
+     "General Offense Number":2012467
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/01/12"
+    ,"Event Year":2012
+    ,"District/Sector":"U"
+    ,"Zone/Beat":"U1"
+    ,"Longitude":-122.3096255
+    ,"Latitude":47.6707098
+  },
+  {
+     "General Offense Number":2012449
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/01/12"
+    ,"Event Year":2012
+    ,"District/Sector":"M"
+    ,"Zone/Beat":"M2"
+    ,"Longitude":-122.3385235
+    ,"Latitude":47.61334267
+  },
+  {
+     "General Offense Number":2012734
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/01/12"
+    ,"Event Year":2012
+    ,"District/Sector":"B"
+    ,"Zone/Beat":"B1"
+    ,"Longitude":-122.3609009
+    ,"Latitude":47.71508981
+  },
+  {
+     "General Offense Number":20121320
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/02/12"
+    ,"Event Year":2012
+    ,"District/Sector":"F"
+    ,"Zone/Beat":"F1"
+    ,"Longitude":-122.3601703
+    ,"Latitude":47.55838563
+  },
+  {
+     "General Offense Number":20121394
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/02/12"
+    ,"Event Year":2012
+    ,"District/Sector":"L"
+    ,"Zone/Beat":"L1"
+    ,"Longitude":-122.2965493
+    ,"Latitude":47.73106083
+  },
+  {
+     "General Offense Number":20121506
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/02/12"
+    ,"Event Year":2012
+    ,"District/Sector":"L"
+    ,"Zone/Beat":"L1"
+    ,"Longitude":-122.3025645
+    ,"Latitude":47.72475312
+  },
+  {
+     "General Offense Number":20121542
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/02/12"
+    ,"Event Year":2012
+    ,"District/Sector":"W"
+    ,"Zone/Beat":"W3"
+    ,"Longitude":-122.3845175
+    ,"Latitude":47.52245002
+  },
+  {
+     "General Offense Number":2011417316
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/01/12"
+    ,"Event Year":2012
+    ,"District/Sector":"B"
+    ,"Zone/Beat":"B1"
+    ,"Longitude":-122.3627263
+    ,"Latitude":47.70311962
+  },
+  {
+     "General Offense Number":2011417128
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/01/12"
+    ,"Event Year":2012
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S2"
+    ,"Longitude":-122.2764984
+    ,"Latitude":47.53430568
+  },
+  {
+     "General Offense Number":2012477
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/01/12"
+    ,"Event Year":2012
+    ,"District/Sector":"N"
+    ,"Zone/Beat":"N3"
+    ,"Longitude":-122.3345243
+    ,"Latitude":47.70233163
+  },
+  {
+     "General Offense Number":2012452
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/01/12"
+    ,"Event Year":2012
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S2"
+    ,"Longitude":-122.2721174
+    ,"Latitude":47.52330964
+  },
+  {
+     "General Offense Number":2012532
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/01/12"
+    ,"Event Year":2012
+    ,"District/Sector":"U"
+    ,"Zone/Beat":"U1"
+    ,"Longitude":-122.3203129
+    ,"Latitude":47.69174981
+  },
+  {
+     "General Offense Number":2012586
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/01/12"
+    ,"Event Year":2012
+    ,"District/Sector":"W"
+    ,"Zone/Beat":"W3"
+    ,"Longitude":-122.3766076
+    ,"Latitude":47.53518974
+  },
+  {
+     "General Offense Number":2012562
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/01/12"
+    ,"Event Year":2012
+    ,"District/Sector":"F"
+    ,"Zone/Beat":"F3"
+    ,"Longitude":-122.3518403
+    ,"Latitude":47.52558632
+  },
+  {
+     "General Offense Number":2012604
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/01/12"
+    ,"Event Year":2012
+    ,"District/Sector":"N"
+    ,"Zone/Beat":"N1"
+    ,"Longitude":-122.3542566
+    ,"Latitude":47.73320155
+  },
+  {
+     "General Offense Number":201244634
+    ,"Event Clearance Code":121
+    ,"Event Clearance Description":"GAMBLING"
+    ,"Event Date":"02/13/12"
+    ,"Event Year":2012
+    ,"District/Sector":"M"
+    ,"Zone/Beat":"M3"
+    ,"Longitude":-122.3590843
+    ,"Latitude":47.6174318
+  },
+  {
+     "General Offense Number":2012169908
+    ,"Event Clearance Code":121
+    ,"Event Clearance Description":"GAMBLING"
+    ,"Event Date":"06/01/12"
+    ,"Event Year":2012
+    ,"District/Sector":"K"
+    ,"Zone/Beat":"K2"
+    ,"Longitude":-122.3250569
+    ,"Latitude":47.59877133
+  },
+  {
+     "General Offense Number":2012195098
+    ,"Event Clearance Code":121
+    ,"Event Clearance Description":"GAMBLING"
+    ,"Event Date":"06/21/12"
+    ,"Event Year":2012
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S1"
+    ,"Longitude":-122.2874439
+    ,"Latitude":47.53909709
+  },
+  {
+     "General Offense Number":2012207694
+    ,"Event Clearance Code":121
+    ,"Event Clearance Description":"GAMBLING"
+    ,"Event Date":"07/01/12"
+    ,"Event Year":2012
+    ,"District/Sector":"M"
+    ,"Zone/Beat":"M2"
+    ,"Longitude":-122.3387017
+    ,"Latitude":47.61074276
+  },
+  {
+     "General Offense Number":2012227918
+    ,"Event Clearance Code":121
+    ,"Event Clearance Description":"GAMBLING"
+    ,"Event Date":"07/15/12"
+    ,"Event Year":2012
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S1"
+    ,"Longitude":-122.2861828
+    ,"Latitude":47.53976527
+  },
+  {
+     "General Offense Number":2012240469
+    ,"Event Clearance Code":121
+    ,"Event Clearance Description":"GAMBLING"
+    ,"Event Date":"07/24/12"
+    ,"Event Year":2012
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S1"
+    ,"Longitude":-122.2874439
+    ,"Latitude":47.53909709
+  },
+  {
+     "General Offense Number":2012240469
+    ,"Event Clearance Code":121
+    ,"Event Clearance Description":"GAMBLING"
+    ,"Event Date":"07/24/12"
+    ,"Event Year":2012
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S1"
+    ,"Longitude":-122.2874439
+    ,"Latitude":47.53909709
+  },
+  {
+     "General Offense Number":2012359
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"01/01/12"
+    ,"Event Year":2012
+    ,"District/Sector":"C"
+    ,"Zone/Beat":"C2"
+    ,"Longitude":-122.3114569
+    ,"Latitude":47.61644409
+  },
+  {
+     "General Offense Number":2012169
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"01/01/12"
+    ,"Event Year":2012
+    ,"District/Sector":"M"
+    ,"Zone/Beat":"M1"
+    ,"Longitude":-122.3465148
+    ,"Latitude":47.61337292
+  },
+  {
+     "General Offense Number":2012435
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"01/01/12"
+    ,"Event Year":2012
+    ,"District/Sector":"R"
+    ,"Zone/Beat":"R3"
+    ,"Longitude":-122.2765236
+    ,"Latitude":47.55338836
+  },
+  {
+     "General Offense Number":2012522
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"01/01/12"
+    ,"Event Year":2012
+    ,"District/Sector":"E"
+    ,"Zone/Beat":"E1"
+    ,"Longitude":-122.3239624
+    ,"Latitude":47.61635574
+  },
+  {
+     "General Offense Number":2012705
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"01/01/12"
+    ,"Event Year":2012
+    ,"District/Sector":"U"
+    ,"Zone/Beat":"U2"
+    ,"Longitude":-122.3183926
+    ,"Latitude":47.66356591
+  },
+  {
+     "General Offense Number":2012715
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"01/01/12"
+    ,"Event Year":2012
+    ,"District/Sector":"U"
+    ,"Zone/Beat":"U2"
+    ,"Longitude":-122.3131878
+    ,"Latitude":47.65905499
+  },
+  {
+     "General Offense Number":2012814
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"01/01/12"
+    ,"Event Year":2012
+    ,"District/Sector":"K"
+    ,"Zone/Beat":"K2"
+    ,"Longitude":-122.3276778
+    ,"Latitude":47.5975153
+  },
+  {
+     "General Offense Number":2013706
+    ,"Event Clearance Code":30
+    ,"Event Clearance Description":"ARMED ROBBERY"
+    ,"Event Date":"01/01/13"
+    ,"Event Year":2013
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S2"
+    ,"Longitude":-122.2734207
+    ,"Latitude":47.52612316
+  },
+  {
+     "General Offense Number":20131843
+    ,"Event Clearance Code":30
+    ,"Event Clearance Description":"ARMED ROBBERY"
+    ,"Event Date":"01/02/13"
+    ,"Event Year":2013
+    ,"District/Sector":"R"
+    ,"Zone/Beat":"R1"
+    ,"Longitude":-122.2943965
+    ,"Latitude":47.57343082
+  },
+  {
+     "General Offense Number":20133658
+    ,"Event Clearance Code":30
+    ,"Event Clearance Description":"ARMED ROBBERY"
+    ,"Event Date":"01/04/13"
+    ,"Event Year":2013
+    ,"District/Sector":"R"
+    ,"Zone/Beat":"R3"
+    ,"Longitude":-122.271247
+    ,"Latitude":47.5402497
+  },
+  {
+     "General Offense Number":20134368
+    ,"Event Clearance Code":30
+    ,"Event Clearance Description":"ARMED ROBBERY"
+    ,"Event Date":"01/04/13"
+    ,"Event Year":2013
+    ,"District/Sector":"Q"
+    ,"Zone/Beat":"Q2"
+    ,"Longitude":-122.356906
+    ,"Latitude":47.64051474
+  },
+  {
+     "General Offense Number":20135026
+    ,"Event Clearance Code":30
+    ,"Event Clearance Description":"ARMED ROBBERY"
+    ,"Event Date":"01/05/13"
+    ,"Event Year":2013
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S1"
+    ,"Longitude":-122.2759654
+    ,"Latitude":47.5406801
+  },
+  {
+     "General Offense Number":2013893
+    ,"Event Clearance Code":49
+    ,"Event Clearance Description":"ASSAULTS, GANG RELATED"
+    ,"Event Date":"01/01/13"
+    ,"Event Year":2013
+    ,"District/Sector":"E"
+    ,"Zone/Beat":"E2"
+    ,"Longitude":-122.327354
+    ,"Latitude":47.61522829
+  },
+  {
+     "General Offense Number":201328568
+    ,"Event Clearance Code":49
+    ,"Event Clearance Description":"ASSAULTS, GANG RELATED"
+    ,"Event Date":"01/25/13"
+    ,"Event Year":2013
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S1"
+    ,"Longitude":-122.2847256
+    ,"Latitude":47.53795765
+  },
+  {
+     "General Offense Number":201342217
+    ,"Event Clearance Code":49
+    ,"Event Clearance Description":"ASSAULTS, GANG RELATED"
+    ,"Event Date":"02/06/13"
+    ,"Event Year":2013
+    ,"District/Sector":"F"
+    ,"Zone/Beat":"F2"
+    ,"Longitude":-122.3744173
+    ,"Latitude":47.51928752
+  },
+  {
+     "General Offense Number":201342306
+    ,"Event Clearance Code":49
+    ,"Event Clearance Description":"ASSAULTS, GANG RELATED"
+    ,"Event Date":"02/06/13"
+    ,"Event Year":2013
+    ,"District/Sector":"G"
+    ,"Zone/Beat":"G2"
+    ,"Longitude":-122.3016853
+    ,"Latitude":47.59928482
+  },
+  {
+     "General Offense Number":201342325
+    ,"Event Clearance Code":49
+    ,"Event Clearance Description":"ASSAULTS, GANG RELATED"
+    ,"Event Date":"02/06/13"
+    ,"Event Year":2013
+    ,"District/Sector":"G"
+    ,"Zone/Beat":"G3"
+    ,"Longitude":-122.2965837
+    ,"Latitude":47.59390064
+  },
+  {
+     "General Offense Number":2013440
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/01/13"
+    ,"Event Year":2013
+    ,"District/Sector":"R"
+    ,"Zone/Beat":"R3"
+    ,"Longitude":-122.2692299
+    ,"Latitude":47.54607093
+  },
+  {
+     "General Offense Number":2013485
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/01/13"
+    ,"Event Year":2013
+    ,"District/Sector":"W"
+    ,"Zone/Beat":"W2"
+    ,"Longitude":-122.3856036
+    ,"Latitude":47.55118645
+  },
+  {
+     "General Offense Number":2013517
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/01/13"
+    ,"Event Year":2013
+    ,"District/Sector":"D"
+    ,"Zone/Beat":"D2"
+    ,"Longitude":-122.3322462
+    ,"Latitude":47.61908727
+  },
+  {
+     "General Offense Number":2013830
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/01/13"
+    ,"Event Year":2013
+    ,"District/Sector":"C"
+    ,"Zone/Beat":"C2"
+    ,"Longitude":-122.3181628
+    ,"Latitude":47.61525176
+  },
+  {
+     "General Offense Number":2013692
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/01/13"
+    ,"Event Year":2013
+    ,"District/Sector":"J"
+    ,"Zone/Beat":"J3"
+    ,"Longitude":-122.3284645
+    ,"Latitude":47.65555412
+  },
+  {
+     "General Offense Number":20133149
+    ,"Event Clearance Code":62
+    ,"Event Clearance Description":"BICYCLE THEFT"
+    ,"Event Date":"01/03/13"
+    ,"Event Year":2013
+    ,"District/Sector":"U"
+    ,"Zone/Beat":"U3"
+    ,"Longitude":-122.3072045
+    ,"Latitude":47.66395556
+  },
+  {
+     "General Offense Number":20133281
+    ,"Event Clearance Code":62
+    ,"Event Clearance Description":"BICYCLE THEFT"
+    ,"Event Date":"01/03/13"
+    ,"Event Year":2013
+    ,"District/Sector":"W"
+    ,"Zone/Beat":"W2"
+    ,"Longitude":-122.3867705
+    ,"Latitude":47.567464
+  },
+  {
+     "General Offense Number":20133327
+    ,"Event Clearance Code":62
+    ,"Event Clearance Description":"BICYCLE THEFT"
+    ,"Event Date":"01/03/13"
+    ,"Event Year":2013
+    ,"District/Sector":"R"
+    ,"Zone/Beat":"R2"
+    ,"Longitude":-122.2968443
+    ,"Latitude":47.55664324
+  },
+  {
+     "General Offense Number":20133413
+    ,"Event Clearance Code":62
+    ,"Event Clearance Description":"BICYCLE THEFT"
+    ,"Event Date":"01/03/13"
+    ,"Event Year":2013
+    ,"District/Sector":"M"
+    ,"Zone/Beat":"M1"
+    ,"Longitude":-122.3537465
+    ,"Latitude":47.61530635
+  },
+  {
+     "General Offense Number":2013460
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/01/13"
+    ,"Event Year":2013
+    ,"District/Sector":"U"
+    ,"Zone/Beat":"U3"
+    ,"Longitude":-122.3072045
+    ,"Latitude":47.66395556
+  },
+  {
+     "General Offense Number":2013516
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/01/13"
+    ,"Event Year":2013
+    ,"District/Sector":"W"
+    ,"Zone/Beat":"W1"
+    ,"Longitude":-122.3948398
+    ,"Latitude":47.58123787
+  },
+  {
+     "General Offense Number":2013624
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/01/13"
+    ,"Event Year":2013
+    ,"District/Sector":"N"
+    ,"Zone/Beat":"N3"
+    ,"Longitude":-122.3345243
+    ,"Latitude":47.70233163
+  },
+  {
+     "General Offense Number":20132662
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/03/13"
+    ,"Event Year":2013
+    ,"District/Sector":"U"
+    ,"Zone/Beat":"U3"
+    ,"Longitude":-122.3077861
+    ,"Latitude":47.66305443
+  },
+  {
+     "General Offense Number":20133308
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/03/13"
+    ,"Event Year":2013
+    ,"District/Sector":"B"
+    ,"Zone/Beat":"B3"
+    ,"Longitude":-122.3619936
+    ,"Latitude":47.68253084
+  },
+  {
+     "General Offense Number":20133912
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/04/13"
+    ,"Event Year":2013
+    ,"District/Sector":"U"
+    ,"Zone/Beat":"U2"
+    ,"Longitude":-122.2961533
+    ,"Latitude":47.66555658
+  },
+  {
+     "General Offense Number":20134053
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/04/13"
+    ,"Event Year":2013
+    ,"District/Sector":"F"
+    ,"Zone/Beat":"F2"
+    ,"Longitude":-122.3604553
+    ,"Latitude":47.52918117
+  },
+  {
+     "General Offense Number":2012445933
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/01/13"
+    ,"Event Year":2013
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S3"
+    ,"Longitude":-122.2558655
+    ,"Latitude":47.51250817
+  },
+  {
+     "General Offense Number":2013473
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/01/13"
+    ,"Event Year":2013
+    ,"District/Sector":"D"
+    ,"Zone/Beat":"D2"
+    ,"Longitude":-122.3234626
+    ,"Latitude":47.63898662
+  },
+  {
+     "General Offense Number":2013736
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/01/13"
+    ,"Event Year":2013
+    ,"District/Sector":"L"
+    ,"Zone/Beat":"L2"
+    ,"Longitude":-122.2979954
+    ,"Latitude":47.71653188
+  },
+  {
+     "General Offense Number":2013698
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/01/13"
+    ,"Event Year":2013
+    ,"District/Sector":"U"
+    ,"Zone/Beat":"U1"
+    ,"Longitude":-122.3050128
+    ,"Latitude":47.69210855
+  },
+  {
+     "General Offense Number":2013732
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/01/13"
+    ,"Event Year":2013
+    ,"District/Sector":"J"
+    ,"Zone/Beat":"J3"
+    ,"Longitude":-122.360149
+    ,"Latitude":47.70873909
+  },
+  {
+     "General Offense Number":20131029
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/01/13"
+    ,"Event Year":2013
+    ,"District/Sector":"F"
+    ,"Zone/Beat":"F2"
+    ,"Longitude":-122.3604846
+    ,"Latitude":47.52399519
+  },
+  {
+     "General Offense Number":20131042
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/02/13"
+    ,"Event Year":2013
+    ,"District/Sector":"D"
+    ,"Zone/Beat":"D3"
+    ,"Longitude":-122.3272634
+    ,"Latitude":47.6074632
+  },
+  {
+     "General Offense Number":201340315
+    ,"Event Clearance Code":121
+    ,"Event Clearance Description":"GAMBLING"
+    ,"Event Date":"02/04/13"
+    ,"Event Year":2013
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S3"
+    ,"Longitude":-122.2673152
+    ,"Latitude":47.52329939
+  },
+  {
+     "General Offense Number":2013535
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"01/01/13"
+    ,"Event Year":2013
+    ,"District/Sector":"R"
+    ,"Zone/Beat":"R1"
+    ,"Longitude":-122.3003494
+    ,"Latitude":47.58208838
+  },
+  {
+     "General Offense Number":2013655
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"01/01/13"
+    ,"Event Year":2013
+    ,"District/Sector":"Q"
+    ,"Zone/Beat":"Q3"
+    ,"Longitude":-122.356713
+    ,"Latitude":47.62458062
+  },
+  {
+     "General Offense Number":2013697
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"01/01/13"
+    ,"Event Year":2013
+    ,"District/Sector":"Q"
+    ,"Zone/Beat":"Q3"
+    ,"Longitude":-122.3567145
+    ,"Latitude":47.62392989
+  },
+  {
+     "General Offense Number":2013810
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"01/01/13"
+    ,"Event Year":2013
+    ,"District/Sector":"M"
+    ,"Zone/Beat":"M2"
+    ,"Longitude":-122.339257
+    ,"Latitude":47.61051065
+  },
+  {
+     "General Offense Number":20141937
+    ,"Event Clearance Code":30
+    ,"Event Clearance Description":"ARMED ROBBERY"
+    ,"Event Date":"01/02/14"
+    ,"Event Year":2014
+    ,"District/Sector":"B"
+    ,"Zone/Beat":"B2"
+    ,"Longitude":-122.3749015
+    ,"Latitude":47.66866614
+  },
+  {
+     "General Offense Number":20142718
+    ,"Event Clearance Code":30
+    ,"Event Clearance Description":"ARMED ROBBERY"
+    ,"Event Date":"01/03/14"
+    ,"Event Year":2014
+    ,"District/Sector":"R"
+    ,"Zone/Beat":"R1"
+    ,"Longitude":-122.2966308
+    ,"Latitude":47.57635866
+  },
+  {
+     "General Offense Number":20143301
+    ,"Event Clearance Code":30
+    ,"Event Clearance Description":"ARMED ROBBERY"
+    ,"Event Date":"01/04/14"
+    ,"Event Year":2014
+    ,"District/Sector":"Q"
+    ,"Zone/Beat":"Q1"
+    ,"Longitude":-122.3893164
+    ,"Latitude":47.65813475
+  },
+  {
+     "General Offense Number":20143870
+    ,"Event Clearance Code":30
+    ,"Event Clearance Description":"ARMED ROBBERY"
+    ,"Event Date":"01/04/14"
+    ,"Event Year":2014
+    ,"District/Sector":"Q"
+    ,"Zone/Beat":"Q1"
+    ,"Longitude":-122.3893164
+    ,"Latitude":47.65813475
+  },
+  {
+     "General Offense Number":20145235
+    ,"Event Clearance Code":30
+    ,"Event Clearance Description":"ARMED ROBBERY"
+    ,"Event Date":"01/06/14"
+    ,"Event Year":2014
+    ,"District/Sector":"M"
+    ,"Zone/Beat":"M2"
+    ,"Longitude":-122.3359286
+    ,"Latitude":47.61190423
+  },
+  {
+     "General Offense Number":20145537
+    ,"Event Clearance Code":30
+    ,"Event Clearance Description":"ARMED ROBBERY"
+    ,"Event Date":"01/06/14"
+    ,"Event Year":2014
+    ,"District/Sector":"M"
+    ,"Zone/Beat":"M3"
+    ,"Longitude":-122.3375462
+    ,"Latitude":47.6061213
+  },
+  {
+     "General Offense Number":201411751
+    ,"Event Clearance Code":49
+    ,"Event Clearance Description":"ASSAULTS, GANG RELATED"
+    ,"Event Date":"01/11/14"
+    ,"Event Year":2014
+    ,"District/Sector":"R"
+    ,"Zone/Beat":"R1"
+    ,"Longitude":-122.281212
+    ,"Latitude":47.57067365
+  },
+  {
+     "General Offense Number":201433353
+    ,"Event Clearance Code":49
+    ,"Event Clearance Description":"ASSAULTS, GANG RELATED"
+    ,"Event Date":"01/31/14"
+    ,"Event Year":2014
+    ,"District/Sector":"F"
+    ,"Zone/Beat":"F2"
+    ,"Longitude":-122.3665125
+    ,"Latitude":47.53188282
+  },
+  {
+     "General Offense Number":201438418
+    ,"Event Clearance Code":49
+    ,"Event Clearance Description":"ASSAULTS, GANG RELATED"
+    ,"Event Date":"02/04/14"
+    ,"Event Year":2014
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S2"
+    ,"Longitude":-122.2868648
+    ,"Latitude":47.53729826
+  },
+  {
+     "General Offense Number":201447028
+    ,"Event Clearance Code":49
+    ,"Event Clearance Description":"ASSAULTS, GANG RELATED"
+    ,"Event Date":"02/13/14"
+    ,"Event Year":2014
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S1"
+    ,"Longitude":-122.2811041
+    ,"Latitude":47.537051
+  },
+  {
+     "General Offense Number":201447130
+    ,"Event Clearance Code":49
+    ,"Event Clearance Description":"ASSAULTS, GANG RELATED"
+    ,"Event Date":"02/13/14"
+    ,"Event Year":2014
+    ,"District/Sector":"G"
+    ,"Zone/Beat":"G3"
+    ,"Longitude":-122.2988707
+    ,"Latitude":47.60799977
+  },
+  {
+     "General Offense Number":201461464
+    ,"Event Clearance Code":49
+    ,"Event Clearance Description":"ASSAULTS, GANG RELATED"
+    ,"Event Date":"02/26/14"
+    ,"Event Year":2014
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S2"
+    ,"Longitude":-122.2806454
+    ,"Latitude":47.53540343
+  },
+  {
+     "General Offense Number":201450
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/01/14"
+    ,"Event Year":2014
+    ,"District/Sector":"R"
+    ,"Zone/Beat":"R1"
+    ,"Longitude":-122.2925397
+    ,"Latitude":47.5879824
+  },
+  {
+     "General Offense Number":2014259
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/01/14"
+    ,"Event Year":2014
+    ,"District/Sector":"M"
+    ,"Zone/Beat":"M1"
+    ,"Longitude":-122.3506163
+    ,"Latitude":47.61579984
+  },
+  {
+     "General Offense Number":2014317
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/01/14"
+    ,"Event Year":2014
+    ,"District/Sector":"K"
+    ,"Zone/Beat":"K3"
+    ,"Longitude":-122.3328785
+    ,"Latitude":47.60087987
+  },
+  {
+     "General Offense Number":2014225
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/01/14"
+    ,"Event Year":2014
+    ,"District/Sector":"J"
+    ,"Zone/Beat":"J3"
+    ,"Longitude":-122.3350744
+    ,"Latitude":47.66138352
+  },
+  {
+     "General Offense Number":2014404
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/01/14"
+    ,"Event Year":2014
+    ,"District/Sector":"W"
+    ,"Zone/Beat":"W1"
+    ,"Longitude":-122.4035519
+    ,"Latitude":47.5787495
+  },
+  {
+     "General Offense Number":2014457
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/01/14"
+    ,"Event Year":2014
+    ,"District/Sector":"N"
+    ,"Zone/Beat":"N3"
+    ,"Longitude":-122.3345243
+    ,"Latitude":47.70233163
+  },
+  {
+     "General Offense Number":2014456
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/01/14"
+    ,"Event Year":2014
+    ,"District/Sector":"F"
+    ,"Zone/Beat":"F2"
+    ,"Longitude":-122.3604464
+    ,"Latitude":47.53097632
+  },
+  {
+     "General Offense Number":2014417
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/01/14"
+    ,"Event Year":2014
+    ,"District/Sector":"U"
+    ,"Zone/Beat":"U1"
+    ,"Longitude":-122.3175591
+    ,"Latitude":47.68710314
+  },
+  {
+     "General Offense Number":2014461
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/01/14"
+    ,"Event Year":2014
+    ,"District/Sector":"B"
+    ,"Zone/Beat":"B1"
+    ,"Longitude":-122.3636558
+    ,"Latitude":47.72236976
+  },
+  {
+     "General Offense Number":2014482
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/01/14"
+    ,"Event Year":2014
+    ,"District/Sector":"N"
+    ,"Zone/Beat":"N1"
+    ,"Longitude":-122.3477718
+    ,"Latitude":47.73167696
+  },
+  {
+     "General Offense Number":2014520
+    ,"Event Clearance Code":62
+    ,"Event Clearance Description":"BICYCLE THEFT"
+    ,"Event Date":"01/01/14"
+    ,"Event Year":2014
+    ,"District/Sector":"D"
+    ,"Zone/Beat":"D2"
+    ,"Longitude":-122.327732
+    ,"Latitude":47.63972736
+  },
+  {
+     "General Offense Number":2014613
+    ,"Event Clearance Code":62
+    ,"Event Clearance Description":"BICYCLE THEFT"
+    ,"Event Date":"01/01/14"
+    ,"Event Year":2014
+    ,"District/Sector":"M"
+    ,"Zone/Beat":"M2"
+    ,"Longitude":-122.3387017
+    ,"Latitude":47.61074277
+  },
+  {
+     "General Offense Number":20142427
+    ,"Event Clearance Code":62
+    ,"Event Clearance Description":"BICYCLE THEFT"
+    ,"Event Date":"01/03/14"
+    ,"Event Year":2014
+    ,"District/Sector":"G"
+    ,"Zone/Beat":"G1"
+    ,"Longitude":-122.3037144
+    ,"Latitude":47.60952225
+  },
+  {
+     "General Offense Number":20142449
+    ,"Event Clearance Code":62
+    ,"Event Clearance Description":"BICYCLE THEFT"
+    ,"Event Date":"01/03/14"
+    ,"Event Year":2014
+    ,"District/Sector":"K"
+    ,"Zone/Beat":"K3"
+    ,"Longitude":-122.3340387
+    ,"Latitude":47.60172211
+  },
+  {
+     "General Offense Number":20142783
+    ,"Event Clearance Code":62
+    ,"Event Clearance Description":"BICYCLE THEFT"
+    ,"Event Date":"01/03/14"
+    ,"Event Year":2014
+    ,"District/Sector":"D"
+    ,"Zone/Beat":"D1"
+    ,"Longitude":-122.3449472
+    ,"Latitude":47.63099753
+  },
+  {
+     "General Offense Number":20144537
+    ,"Event Clearance Code":62
+    ,"Event Clearance Description":"BICYCLE THEFT"
+    ,"Event Date":"01/05/14"
+    ,"Event Year":2014
+    ,"District/Sector":"U"
+    ,"Zone/Beat":"U2"
+    ,"Longitude":-122.3187289
+    ,"Latitude":47.67148835
+  },
+  {
+     "General Offense Number":20144842
+    ,"Event Clearance Code":62
+    ,"Event Clearance Description":"BICYCLE THEFT"
+    ,"Event Date":"01/05/14"
+    ,"Event Year":2014
+    ,"District/Sector":"M"
+    ,"Zone/Beat":"M2"
+    ,"Longitude":-122.3408946
+    ,"Latitude":47.61239733
+  },
+  {
+     "General Offense Number":20146671
+    ,"Event Clearance Code":62
+    ,"Event Clearance Description":"BICYCLE THEFT"
+    ,"Event Date":"01/07/14"
+    ,"Event Year":2014
+    ,"District/Sector":"D"
+    ,"Zone/Beat":"D3"
+    ,"Longitude":-122.3245498
+    ,"Latitude":47.61205117
+  },
+  {
+     "General Offense Number":2013465650
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/01/14"
+    ,"Event Year":2014
+    ,"District/Sector":"R"
+    ,"Zone/Beat":"R2"
+    ,"Longitude":-122.3092389
+    ,"Latitude":47.56107531
+  },
+  {
+     "General Offense Number":2014342
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/01/14"
+    ,"Event Year":2014
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S2"
+    ,"Longitude":-122.2825365
+    ,"Latitude":47.53335206
+  },
+  {
+     "General Offense Number":2014382
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/01/14"
+    ,"Event Year":2014
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S1"
+    ,"Longitude":-122.2841596
+    ,"Latitude":47.54066928
+  },
+  {
+     "General Offense Number":2014492
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/01/14"
+    ,"Event Year":2014
+    ,"District/Sector":"C"
+    ,"Zone/Beat":"C1"
+    ,"Longitude":-122.3295198
+    ,"Latitude":47.64151133
+  },
+  {
+     "General Offense Number":2014480
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/01/14"
+    ,"Event Year":2014
+    ,"District/Sector":"W"
+    ,"Zone/Beat":"W2"
+    ,"Longitude":-122.3729174
+    ,"Latitude":47.56646381
+  },
+  {
+     "General Offense Number":20141710
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/02/14"
+    ,"Event Year":2014
+    ,"District/Sector":"Q"
+    ,"Zone/Beat":"Q3"
+    ,"Longitude":-122.3586531
+    ,"Latitude":47.6267233
+  },
+  {
+     "General Offense Number":2013465588
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/01/14"
+    ,"Event Year":2014
+    ,"District/Sector":"B"
+    ,"Zone/Beat":"B1"
+    ,"Longitude":-122.3800211
+    ,"Latitude":47.69320206
+  },
+  {
+     "General Offense Number":2014423
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/01/14"
+    ,"Event Year":2014
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S1"
+    ,"Longitude":-122.2951171
+    ,"Latitude":47.53997894
+  },
+  {
+     "General Offense Number":2014406
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/01/14"
+    ,"Event Year":2014
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S1"
+    ,"Longitude":-122.2982057
+    ,"Latitude":47.54362728
+  },
+  {
+     "General Offense Number":2014560
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/01/14"
+    ,"Event Year":2014
+    ,"District/Sector":"Q"
+    ,"Zone/Beat":"Q2"
+    ,"Longitude":-122.3735826
+    ,"Latitude":47.64941014
+  },
+  {
+     "General Offense Number":2014589
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/01/14"
+    ,"Event Year":2014
+    ,"District/Sector":"Q"
+    ,"Zone/Beat":"Q2"
+    ,"Longitude":-122.3761541
+    ,"Latitude":47.63965592
+  },
+  {
+     "General Offense Number":2014703
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/01/14"
+    ,"Event Year":2014
+    ,"District/Sector":"R"
+    ,"Zone/Beat":"R2"
+    ,"Longitude":-122.3134248
+    ,"Latitude":47.55980475
+  },
+  {
+     "General Offense Number":2014682
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/01/14"
+    ,"Event Year":2014
+    ,"District/Sector":"J"
+    ,"Zone/Beat":"J2"
+    ,"Longitude":-122.3586109
+    ,"Latitude":47.6570113
+  },
+  {
+     "General Offense Number":2014766
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/01/14"
+    ,"Event Year":2014
+    ,"District/Sector":"U"
+    ,"Zone/Beat":"U1"
+    ,"Longitude":-122.2985315
+    ,"Latitude":47.67305869
+  },
+  {
+     "General Offense Number":2014140823
+    ,"Event Clearance Code":121
+    ,"Event Clearance Description":"GAMBLING"
+    ,"Event Date":"05/07/14"
+    ,"Event Year":2014
+    ,"District/Sector":"K"
+    ,"Zone/Beat":"K3"
+    ,"Longitude":-122.3341768
+    ,"Latitude":47.60214897
+  },
+  {
+     "General Offense Number":2014146296
+    ,"Event Clearance Code":121
+    ,"Event Clearance Description":"GAMBLING"
+    ,"Event Date":"05/11/14"
+    ,"Event Year":2014
+    ,"District/Sector":"G"
+    ,"Zone/Beat":"G3"
+    ,"Longitude":-122.2962191
+    ,"Latitude":47.59975003
+  },
+  {
+     "General Offense Number":2014181178
+    ,"Event Clearance Code":121
+    ,"Event Clearance Description":"GAMBLING"
+    ,"Event Date":"06/08/14"
+    ,"Event Year":2014
+    ,"District/Sector":"R"
+    ,"Zone/Beat":"R2"
+    ,"Longitude":-122.3041397
+    ,"Latitude":47.55883617
+  },
+  {
+     "General Offense Number":2014220267
+    ,"Event Clearance Code":121
+    ,"Event Clearance Description":"GAMBLING"
+    ,"Event Date":"07/07/14"
+    ,"Event Year":2014
+    ,"District/Sector":"K"
+    ,"Zone/Beat":"K1"
+    ,"Longitude":-122.3373204
+    ,"Latitude":47.61132124
+  },
+  {
+     "General Offense Number":2014246621
+    ,"Event Clearance Code":121
+    ,"Event Clearance Description":"GAMBLING"
+    ,"Event Date":"07/27/14"
+    ,"Event Year":2014
+    ,"District/Sector":"U"
+    ,"Zone/Beat":"U3"
+    ,"Longitude":-122.3131157
+    ,"Latitude":47.66218058
+  },
+  {
+     "General Offense Number":2014246728
+    ,"Event Clearance Code":121
+    ,"Event Clearance Description":"GAMBLING"
+    ,"Event Date":"07/27/14"
+    ,"Event Year":2014
+    ,"District/Sector":"M"
+    ,"Zone/Beat":"M2"
+    ,"Longitude":-122.3387017
+    ,"Latitude":47.61074277
+  },
+  {
+     "General Offense Number":201426
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"01/01/14"
+    ,"Event Year":2014
+    ,"District/Sector":"F"
+    ,"Zone/Beat":"F2"
+    ,"Longitude":-122.3584591
+    ,"Latitude":47.52102917
+  },
+  {
+     "General Offense Number":2014534
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"01/01/14"
+    ,"Event Year":2014
+    ,"District/Sector":"N"
+    ,"Zone/Beat":"N2"
+    ,"Longitude":-122.3445521
+    ,"Latitude":47.69309926
+  },
+  {
+     "General Offense Number":2014562
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"01/01/14"
+    ,"Event Year":2014
+    ,"District/Sector":"K"
+    ,"Zone/Beat":"K1"
+    ,"Longitude":-122.3382473
+    ,"Latitude":47.6102463
+  },
+  {
+     "General Offense Number":2014586
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"01/01/14"
+    ,"Event Year":2014
+    ,"District/Sector":"J"
+    ,"Zone/Beat":"J2"
+    ,"Longitude":-122.3762214
+    ,"Latitude":47.66366335
+  },
+  {
+     "General Offense Number":2014604
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"01/01/14"
+    ,"Event Year":2014
+    ,"District/Sector":"K"
+    ,"Zone/Beat":"K1"
+    ,"Longitude":-122.3382473
+    ,"Latitude":47.6102463
+  },
+  {
+     "General Offense Number":20141496
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"01/02/14"
+    ,"Event Year":2014
+    ,"District/Sector":"M"
+    ,"Zone/Beat":"M3"
+    ,"Longitude":-122.3404677
+    ,"Latitude":47.6093176
+  },
+  {
+     "General Offense Number":20141613
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"01/02/14"
+    ,"Event Year":2014
+    ,"District/Sector":"D"
+    ,"Zone/Beat":"D2"
+    ,"Longitude":-122.3350861
+    ,"Latitude":47.61600094
+  },
+  {
+     "General Offense Number":20141831
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"01/02/14"
+    ,"Event Year":2014
+    ,"District/Sector":"M"
+    ,"Zone/Beat":"M3"
+    ,"Longitude":-122.3428796
+    ,"Latitude":47.60981273
+  },
+  {
+     "General Offense Number":2014431019
+    ,"Event Clearance Code":30
+    ,"Event Clearance Description":"ARMED ROBBERY"
+    ,"Event Date":"01/01/15"
+    ,"Event Year":2015
+    ,"District/Sector":"O"
+    ,"Zone/Beat":"O2"
+    ,"Longitude":-122.329591
+    ,"Latitude":47.54533439
+  },
+  {
+     "General Offense Number":201539
+    ,"Event Clearance Code":30
+    ,"Event Clearance Description":"ARMED ROBBERY"
+    ,"Event Date":"01/01/15"
+    ,"Event Year":2015
+    ,"District/Sector":"K"
+    ,"Zone/Beat":"K3"
+    ,"Longitude":-122.3352146
+    ,"Latitude":47.60172278
+  },
+  {
+     "General Offense Number":2015237
+    ,"Event Clearance Code":30
+    ,"Event Clearance Description":"ARMED ROBBERY"
+    ,"Event Date":"01/01/15"
+    ,"Event Year":2015
+    ,"District/Sector":"G"
+    ,"Zone/Beat":"G1"
+    ,"Longitude":-122.3063449
+    ,"Latitude":47.60433044
+  },
+  {
+     "General Offense Number":2015265
+    ,"Event Clearance Code":30
+    ,"Event Clearance Description":"ARMED ROBBERY"
+    ,"Event Date":"01/01/15"
+    ,"Event Year":2015
+    ,"District/Sector":"C"
+    ,"Zone/Beat":"C1"
+    ,"Longitude":-122.3086203
+    ,"Latitude":47.62867454
+  },
+  {
+     "General Offense Number":2015934
+    ,"Event Clearance Code":30
+    ,"Event Clearance Description":"ARMED ROBBERY"
+    ,"Event Date":"01/02/15"
+    ,"Event Year":2015
+    ,"District/Sector":"O"
+    ,"Zone/Beat":"O3"
+    ,"Longitude":-122.3278302
+    ,"Latitude":47.54580423
+  },
+  {
+     "General Offense Number":20153528
+    ,"Event Clearance Code":30
+    ,"Event Clearance Description":"ARMED ROBBERY"
+    ,"Event Date":"01/04/15"
+    ,"Event Year":2015
+    ,"District/Sector":"G"
+    ,"Zone/Beat":"G2"
+    ,"Longitude":-122.3134365
+    ,"Latitude":47.59665466
+  },
+  {
+     "General Offense Number":20153886
+    ,"Event Clearance Code":30
+    ,"Event Clearance Description":"ARMED ROBBERY"
+    ,"Event Date":"01/05/15"
+    ,"Event Year":2015
+    ,"District/Sector":"U"
+    ,"Zone/Beat":"U1"
+    ,"Longitude":-122.3094825
+    ,"Latitude":47.69850457
+  },
+  {
+     "General Offense Number":201566192
+    ,"Event Clearance Code":49
+    ,"Event Clearance Description":"ASSAULTS, GANG RELATED"
+    ,"Event Date":"02/27/15"
+    ,"Event Year":2015
+    ,"District/Sector":"F"
+    ,"Zone/Beat":"F2"
+    ,"Longitude":-122.364517
+    ,"Latitude":47.5264811
+  },
+  {
+     "General Offense Number":201573115
+    ,"Event Clearance Code":49
+    ,"Event Clearance Description":"ASSAULTS, GANG RELATED"
+    ,"Event Date":"03/05/15"
+    ,"Event Year":2015
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S2"
+    ,"Longitude":-122.2713149
+    ,"Latitude":47.53366162
+  },
+  {
+     "General Offense Number":2015126281
+    ,"Event Clearance Code":49
+    ,"Event Clearance Description":"ASSAULTS, GANG RELATED"
+    ,"Event Date":"04/18/15"
+    ,"Event Year":2015
+    ,"District/Sector":"D"
+    ,"Zone/Beat":"D2"
+    ,"Longitude":-122.3423499
+    ,"Latitude":47.62454711
+  },
+  {
+     "General Offense Number":2015213655
+    ,"Event Clearance Code":49
+    ,"Event Clearance Description":"ASSAULTS, GANG RELATED"
+    ,"Event Date":"06/24/15"
+    ,"Event Year":2015
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S3"
+    ,"Longitude":-122.2699904
+    ,"Latitude":47.52055616
+  },
+  {
+     "General Offense Number":2014431234
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/01/15"
+    ,"Event Year":2015
+    ,"District/Sector":"L"
+    ,"Zone/Beat":"L2"
+    ,"Longitude":-122.2984463
+    ,"Latitude":47.71929615
+  },
+  {
+     "General Offense Number":201533
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/01/15"
+    ,"Event Year":2015
+    ,"District/Sector":"Q"
+    ,"Zone/Beat":"Q3"
+    ,"Longitude":-122.3554386
+    ,"Latitude":47.62035192
+  },
+  {
+     "General Offense Number":2015148
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/01/15"
+    ,"Event Year":2015
+    ,"District/Sector":"U"
+    ,"Zone/Beat":"U1"
+    ,"Longitude":-122.3063349
+    ,"Latitude":47.69302764
+  },
+  {
+     "General Offense Number":2015190
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/01/15"
+    ,"Event Year":2015
+    ,"District/Sector":"Q"
+    ,"Zone/Beat":"Q2"
+    ,"Longitude":-122.3631059
+    ,"Latitude":47.63232611
+  },
+  {
+     "General Offense Number":201577
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/01/15"
+    ,"Event Year":2015
+    ,"District/Sector":"W"
+    ,"Zone/Beat":"W2"
+    ,"Longitude":-122.385483
+    ,"Latitude":47.56021005
+  },
+  {
+     "General Offense Number":201554
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/01/15"
+    ,"Event Year":2015
+    ,"District/Sector":"M"
+    ,"Zone/Beat":"M2"
+    ,"Longitude":-122.3361562
+    ,"Latitude":47.61428619
+  },
+  {
+     "General Offense Number":2015945
+    ,"Event Clearance Code":62
+    ,"Event Clearance Description":"BICYCLE THEFT"
+    ,"Event Date":"01/01/15"
+    ,"Event Year":2015
+    ,"District/Sector":"E"
+    ,"Zone/Beat":"E1"
+    ,"Longitude":-122.3259434
+    ,"Latitude":47.61811262
+  },
+  {
+     "General Offense Number":20151402
+    ,"Event Clearance Code":62
+    ,"Event Clearance Description":"BICYCLE THEFT"
+    ,"Event Date":"01/02/15"
+    ,"Event Year":2015
+    ,"District/Sector":"C"
+    ,"Zone/Beat":"C2"
+    ,"Longitude":-122.316845
+    ,"Latitude":47.61468385
+  },
+  {
+     "General Offense Number":20151620
+    ,"Event Clearance Code":62
+    ,"Event Clearance Description":"BICYCLE THEFT"
+    ,"Event Date":"01/02/15"
+    ,"Event Year":2015
+    ,"District/Sector":"J"
+    ,"Zone/Beat":"J3"
+    ,"Longitude":-122.3363445
+    ,"Latitude":47.64862037
+  },
+  {
+     "General Offense Number":20153531
+    ,"Event Clearance Code":62
+    ,"Event Clearance Description":"BICYCLE THEFT"
+    ,"Event Date":"01/04/15"
+    ,"Event Year":2015
+    ,"District/Sector":"M"
+    ,"Zone/Beat":"M2"
+    ,"Longitude":-122.3441436
+    ,"Latitude":47.61432035
+  },
+  {
+     "General Offense Number":20154206
+    ,"Event Clearance Code":62
+    ,"Event Clearance Description":"BICYCLE THEFT"
+    ,"Event Date":"01/05/15"
+    ,"Event Year":2015
+    ,"District/Sector":"Q"
+    ,"Zone/Beat":"Q1"
+    ,"Longitude":-122.3956355
+    ,"Latitude":47.65504208
+  },
+  {
+     "General Offense Number":20154452
+    ,"Event Clearance Code":62
+    ,"Event Clearance Description":"BICYCLE THEFT"
+    ,"Event Date":"01/05/15"
+    ,"Event Year":2015
+    ,"District/Sector":"N"
+    ,"Zone/Beat":"N3"
+    ,"Longitude":-122.3219184
+    ,"Latitude":47.70858578
+  },
+  {
+     "General Offense Number":20154797
+    ,"Event Clearance Code":62
+    ,"Event Clearance Description":"BICYCLE THEFT"
+    ,"Event Date":"01/05/15"
+    ,"Event Year":2015
+    ,"District/Sector":"D"
+    ,"Zone/Beat":"D2"
+    ,"Longitude":-122.3286106
+    ,"Latitude":47.6296551
+  },
+  {
+     "General Offense Number":20155086
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/06/15"
+    ,"Event Year":2015
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S3"
+    ,"Longitude":-122.2700634
+    ,"Latitude":47.51020771
+  },
+  {
+     "General Offense Number":20155464
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/06/15"
+    ,"Event Year":2015
+    ,"District/Sector":"E"
+    ,"Zone/Beat":"E1"
+    ,"Longitude":-122.3221773
+    ,"Latitude":47.61814803
+  },
+  {
+     "General Offense Number":20157575
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/08/15"
+    ,"Event Year":2015
+    ,"District/Sector":"C"
+    ,"Zone/Beat":"C1"
+    ,"Longitude":-122.3162532
+    ,"Latitude":47.63723849
+  },
+  {
+     "General Offense Number":20157544
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/08/15"
+    ,"Event Year":2015
+    ,"District/Sector":"R"
+    ,"Zone/Beat":"R2"
+    ,"Longitude":-122.3014239
+    ,"Latitude":47.56610306
+  },
+  {
+     "General Offense Number":20157712
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/08/15"
+    ,"Event Year":2015
+    ,"District/Sector":"R"
+    ,"Zone/Beat":"R2"
+    ,"Longitude":-122.3147891
+    ,"Latitude":47.55562813
+  },
+  {
+     "General Offense Number":20157900
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/08/15"
+    ,"Event Year":2015
+    ,"District/Sector":"B"
+    ,"Zone/Beat":"B3"
+    ,"Longitude":-122.3778476
+    ,"Latitude":47.68042997
+  },
+  {
+     "General Offense Number":20158051
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/08/15"
+    ,"Event Year":2015
+    ,"District/Sector":"R"
+    ,"Zone/Beat":"R1"
+    ,"Longitude":-122.2964243
+    ,"Latitude":47.58327879
+  },
+  {
+     "General Offense Number":2015674
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/01/15"
+    ,"Event Year":2015
+    ,"District/Sector":"L"
+    ,"Zone/Beat":"L3"
+    ,"Longitude":-122.2865873
+    ,"Latitude":47.69597956
+  },
+  {
+     "General Offense Number":2015617
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/01/15"
+    ,"Event Year":2015
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S3"
+    ,"Longitude":-122.2696079
+    ,"Latitude":47.49745981
+  },
+  {
+     "General Offense Number":2015462
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/01/15"
+    ,"Event Year":2015
+    ,"District/Sector":"B"
+    ,"Zone/Beat":"B2"
+    ,"Longitude":-122.3915104
+    ,"Latitude":47.66946128
+  },
+  {
+     "General Offense Number":2015517
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/01/15"
+    ,"Event Year":2015
+    ,"District/Sector":"B"
+    ,"Zone/Beat":"B2"
+    ,"Longitude":-122.4063609
+    ,"Latitude":47.67429094
+  },
+  {
+     "General Offense Number":2015575
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/01/15"
+    ,"Event Year":2015
+    ,"District/Sector":"F"
+    ,"Zone/Beat":"F1"
+    ,"Longitude":-122.3591854
+    ,"Latitude":47.57047162
+  },
+  {
+     "General Offense Number":2015843
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/01/15"
+    ,"Event Year":2015
+    ,"District/Sector":"L"
+    ,"Zone/Beat":"L1"
+    ,"Longitude":-122.2855255
+    ,"Latitude":47.72676695
+  },
+  {
+     "General Offense Number":2015883
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/01/15"
+    ,"Event Year":2015
+    ,"District/Sector":"W"
+    ,"Zone/Beat":"W2"
+    ,"Longitude":-122.3800885
+    ,"Latitude":47.56558496
+  },
+  {
+     "General Offense Number":201519860
+    ,"Event Clearance Code":121
+    ,"Event Clearance Description":"GAMBLING"
+    ,"Event Date":"01/18/15"
+    ,"Event Year":2015
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S2"
+    ,"Longitude":-122.2701547
+    ,"Latitude":47.53644387
+  },
+  {
+     "General Offense Number":201523274
+    ,"Event Clearance Code":121
+    ,"Event Clearance Description":"GAMBLING"
+    ,"Event Date":"01/21/15"
+    ,"Event Year":2015
+    ,"District/Sector":"G"
+    ,"Zone/Beat":"G3"
+    ,"Longitude":-122.3027121
+    ,"Latitude":47.61294065
+  },
+  {
+     "General Offense Number":2015117451
+    ,"Event Clearance Code":121
+    ,"Event Clearance Description":"GAMBLING"
+    ,"Event Date":"04/10/15"
+    ,"Event Year":2015
+    ,"District/Sector":"M"
+    ,"Zone/Beat":"M3"
+    ,"Longitude":-122.3382473
+    ,"Latitude":47.61024631
+  },
+  {
+     "General Offense Number":2015138094
+    ,"Event Clearance Code":121
+    ,"Event Clearance Description":"GAMBLING"
+    ,"Event Date":"04/27/15"
+    ,"Event Year":2015
+    ,"District/Sector":"C"
+    ,"Zone/Beat":"C3"
+    ,"Longitude":-122.3027273
+    ,"Latitude":47.61226542
+  },
+  {
+     "General Offense Number":2015148251
+    ,"Event Clearance Code":121
+    ,"Event Clearance Description":"GAMBLING"
+    ,"Event Date":"05/06/15"
+    ,"Event Year":2015
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S2"
+    ,"Longitude":-122.2706533
+    ,"Latitude":47.53859194
+  },
+  {
+     "General Offense Number":2015148774
+    ,"Event Clearance Code":121
+    ,"Event Clearance Description":"GAMBLING"
+    ,"Event Date":"05/07/15"
+    ,"Event Year":2015
+    ,"District/Sector":"Q"
+    ,"Zone/Beat":"Q2"
+    ,"Longitude":-122.3598778
+    ,"Latitude":47.6295836
+  },
+  {
+     "General Offense Number":2015158723
+    ,"Event Clearance Code":121
+    ,"Event Clearance Description":"GAMBLING"
+    ,"Event Date":"05/15/15"
+    ,"Event Year":2015
+    ,"District/Sector":"C"
+    ,"Zone/Beat":"C3"
+    ,"Longitude":-122.3027121
+    ,"Latitude":47.61294065
+  },
+  {
+     "General Offense Number":2015168735
+    ,"Event Clearance Code":121
+    ,"Event Clearance Description":"GAMBLING"
+    ,"Event Date":"05/22/15"
+    ,"Event Year":2015
+    ,"District/Sector":"C"
+    ,"Zone/Beat":"C3"
+    ,"Longitude":-122.3027121
+    ,"Latitude":47.61294065
+  },
+  {
+     "General Offense Number":2015197222
+    ,"Event Clearance Code":121
+    ,"Event Clearance Description":"GAMBLING"
+    ,"Event Date":"06/12/15"
+    ,"Event Year":2015
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S3"
+    ,"Longitude":-122.2673152
+    ,"Latitude":47.52329939
+  },
+  {
+     "General Offense Number":20151229
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"01/02/15"
+    ,"Event Year":2015
+    ,"District/Sector":"R"
+    ,"Zone/Beat":"R3"
+    ,"Longitude":-122.270435
+    ,"Latitude":47.5376416
+  },
+  {
+     "General Offense Number":20151671
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"01/02/15"
+    ,"Event Year":2015
+    ,"District/Sector":"K"
+    ,"Zone/Beat":"K1"
+    ,"Longitude":-122.3393581
+    ,"Latitude":47.60978173
+  },
+  {
+     "General Offense Number":20151689
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"01/02/15"
+    ,"Event Year":2015
+    ,"District/Sector":"K"
+    ,"Zone/Beat":"K1"
+    ,"Longitude":-122.3383483
+    ,"Latitude":47.60951744
+  },
+  {
+     "General Offense Number":20152071
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"01/03/15"
+    ,"Event Year":2015
+    ,"District/Sector":"C"
+    ,"Zone/Beat":"C2"
+    ,"Longitude":-122.3181502
+    ,"Latitude":47.61467441
+  },
+  {
+     "General Offense Number":20152373
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"01/03/15"
+    ,"Event Year":2015
+    ,"District/Sector":"K"
+    ,"Zone/Beat":"K1"
+    ,"Longitude":-122.3373204
+    ,"Latitude":47.61132124
+  },
+  {
+     "General Offense Number":20152457
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"01/03/15"
+    ,"Event Year":2015
+    ,"District/Sector":"K"
+    ,"Zone/Beat":"K2"
+    ,"Longitude":-122.3310822
+    ,"Latitude":47.60241242
+  },
+  {
+     "General Offense Number":20152517
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"01/03/15"
+    ,"Event Year":2015
+    ,"District/Sector":"N"
+    ,"Zone/Beat":"N1"
+    ,"Longitude":-122.3448343
+    ,"Latitude":47.71354798
+  },
+  {
+     "General Offense Number":2016482
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"01/01/16"
+    ,"Event Year":2016
+    ,"District/Sector":"K"
+    ,"Zone/Beat":"K2"
+    ,"Longitude":-122.33288
+    ,"Latitude":47.60088
+  },
+  {
+     "General Offense Number":2016436
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"01/01/16"
+    ,"Event Year":2016
+    ,"District/Sector":"R"
+    ,"Zone/Beat":"R1"
+    ,"Longitude":-122.314224
+    ,"Latitude":47.58147
+  },
+  {
+     "General Offense Number":2016533
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"01/01/16"
+    ,"Event Year":2016
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S2"
+    ,"Longitude":-122.27043
+    ,"Latitude":47.537643
+  },
+  {
+     "General Offense Number":2016546
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"01/01/16"
+    ,"Event Year":2016
+    ,"District/Sector":"Q"
+    ,"Zone/Beat":"Q1"
+    ,"Longitude":-122.38339
+    ,"Latitude":47.655632
+  },
+  {
+     "General Offense Number":2016487
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"01/01/16"
+    ,"Event Year":2016
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S3"
+    ,"Longitude":-122.26803
+    ,"Latitude":47.51985
+  },
+  {
+     "General Offense Number":2016656
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"01/01/16"
+    ,"Event Year":2016
+    ,"District/Sector":"E"
+    ,"Zone/Beat":"E2"
+    ,"Longitude":-122.31817
+    ,"Latitude":47.615837
+  },
+  {
+     "General Offense Number":2016728
+    ,"Event Clearance Code":176
+    ,"Event Clearance Description":"LIQUOR VIOLATION - ADULT"
+    ,"Event Date":"01/01/16"
+    ,"Event Year":2016
+    ,"District/Sector":"Q"
+    ,"Zone/Beat":"Q3"
+    ,"Longitude":-122.356705
+    ,"Latitude":47.62502
+  },
+  {
+     "General Offense Number":20163890
+    ,"Event Clearance Code":121
+    ,"Event Clearance Description":"GAMBLING"
+    ,"Event Date":"01/04/16"
+    ,"Event Year":2016
+    ,"District/Sector":"R"
+    ,"Zone/Beat":"R3"
+    ,"Longitude":-122.28338
+    ,"Latitude":47.547874
+  },
+  {
+     "General Offense Number":201663544
+    ,"Event Clearance Code":121
+    ,"Event Clearance Description":"GAMBLING"
+    ,"Event Date":"02/22/16"
+    ,"Event Year":2016
+    ,"District/Sector":"R"
+    ,"Zone/Beat":"R3"
+    ,"Longitude":-122.28609
+    ,"Latitude":47.547012
+  },
+  {
+     "General Offense Number":2015451889
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/01/16"
+    ,"Event Year":2016
+    ,"District/Sector":"R"
+    ,"Zone/Beat":"R1"
+    ,"Longitude":-122.30451
+    ,"Latitude":47.556026
+  },
+  {
+     "General Offense Number":2016765
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/01/16"
+    ,"Event Year":2016
+    ,"District/Sector":"N"
+    ,"Zone/Beat":"N1"
+    ,"Longitude":-122.360954
+    ,"Latitude":47.720543
+  },
+  {
+     "General Offense Number":2016391
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/01/16"
+    ,"Event Year":2016
+    ,"District/Sector":"Q"
+    ,"Zone/Beat":"Q3"
+    ,"Longitude":-122.3597
+    ,"Latitude":47.619987
+  },
+  {
+     "General Offense Number":2016854
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/02/16"
+    ,"Event Year":2016
+    ,"District/Sector":"J"
+    ,"Zone/Beat":"J1"
+    ,"Longitude":-122.366005
+    ,"Latitude":47.693176
+  },
+  {
+     "General Offense Number":20161202
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/02/16"
+    ,"Event Year":2016
+    ,"District/Sector":"B"
+    ,"Zone/Beat":"B3"
+    ,"Longitude":-122.327866
+    ,"Latitude":47.656628
+  },
+  {
+     "General Offense Number":20161450
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/02/16"
+    ,"Event Year":2016
+    ,"District/Sector":"F"
+    ,"Zone/Beat":"F2"
+    ,"Longitude":-122.36044
+    ,"Latitude":47.530975
+  },
+  {
+     "General Offense Number":20161607
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/02/16"
+    ,"Event Year":2016
+    ,"District/Sector":"B"
+    ,"Zone/Beat":"B2"
+    ,"Longitude":-122.360794
+    ,"Latitude":47.670155
+  },
+  {
+     "General Offense Number":20161612
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/02/16"
+    ,"Event Year":2016
+    ,"District/Sector":"U"
+    ,"Zone/Beat":"U1"
+    ,"Longitude":-122.307205
+    ,"Latitude":47.663956
+  },
+  {
+     "General Offense Number":20161605
+    ,"Event Clearance Code":50
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, UNOCCUPIED"
+    ,"Event Date":"01/02/16"
+    ,"Event Year":2016
+    ,"District/Sector":"B"
+    ,"Zone/Beat":"B2"
+    ,"Longitude":-122.35334
+    ,"Latitude":47.658348
+  },
+  {
+     "General Offense Number":2016935
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/02/16"
+    ,"Event Year":2016
+    ,"District/Sector":"L"
+    ,"Zone/Beat":"L2"
+    ,"Longitude":-122.32298
+    ,"Latitude":47.689316
+  },
+  {
+     "General Offense Number":20161271
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/02/16"
+    ,"Event Year":2016
+    ,"District/Sector":"J"
+    ,"Zone/Beat":"J3"
+    ,"Longitude":-122.32441
+    ,"Latitude":47.67513
+  },
+  {
+     "General Offense Number":20161340
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/02/16"
+    ,"Event Year":2016
+    ,"District/Sector":"J"
+    ,"Zone/Beat":"J2"
+    ,"Longitude":-122.39831
+    ,"Latitude":47.68399
+  },
+  {
+     "General Offense Number":20161444
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/02/16"
+    ,"Event Year":2016
+    ,"District/Sector":"N"
+    ,"Zone/Beat":"N1"
+    ,"Longitude":-122.36095
+    ,"Latitude":47.723736
+  },
+  {
+     "General Offense Number":20161586
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/02/16"
+    ,"Event Year":2016
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S3"
+    ,"Longitude":-122.276344
+    ,"Latitude":47.51935
+  },
+  {
+     "General Offense Number":20161618
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/02/16"
+    ,"Event Year":2016
+    ,"District/Sector":"W"
+    ,"Zone/Beat":"W1"
+    ,"Longitude":-122.38025
+    ,"Latitude":47.57836
+  },
+  {
+     "General Offense Number":20162363
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/03/16"
+    ,"Event Year":2016
+    ,"District/Sector":"B"
+    ,"Zone/Beat":"B2"
+    ,"Longitude":-122.34733
+    ,"Latitude":47.663227
+  },
+  {
+     "General Offense Number":20162692
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/03/16"
+    ,"Event Year":2016
+    ,"District/Sector":"Q"
+    ,"Zone/Beat":"Q3"
+    ,"Longitude":-122.34631
+    ,"Latitude":47.619152
+  },
+  {
+     "General Offense Number":20164262
+    ,"Event Clearance Code":51
+    ,"Event Clearance Description":"BURGLARY - RESIDENTIAL, OCCUPIED"
+    ,"Event Date":"01/05/16"
+    ,"Event Year":2016
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S3"
+    ,"Longitude":-122.27212
+    ,"Latitude":47.523308
+  },
+  {
+     "General Offense Number":20164715
+    ,"Event Clearance Code":62
+    ,"Event Clearance Description":"BICYCLE THEFT"
+    ,"Event Date":"01/05/16"
+    ,"Event Year":2016
+    ,"District/Sector":"N"
+    ,"Zone/Beat":"N3"
+    ,"Longitude":-122.33505
+    ,"Latitude":47.698677
+  },
+  {
+     "General Offense Number":20165829
+    ,"Event Clearance Code":62
+    ,"Event Clearance Description":"BICYCLE THEFT"
+    ,"Event Date":"01/06/16"
+    ,"Event Year":2016
+    ,"District/Sector":"Q"
+    ,"Zone/Beat":"Q2"
+    ,"Longitude":-122.374916
+    ,"Latitude":47.65458
+  },
+  {
+     "General Offense Number":20166080
+    ,"Event Clearance Code":62
+    ,"Event Clearance Description":"BICYCLE THEFT"
+    ,"Event Date":"01/06/16"
+    ,"Event Year":2016
+    ,"District/Sector":"M"
+    ,"Zone/Beat":"M1"
+    ,"Longitude":-122.34261
+    ,"Latitude":47.611065
+  },
+  {
+     "General Offense Number":20166274
+    ,"Event Clearance Code":62
+    ,"Event Clearance Description":"BICYCLE THEFT"
+    ,"Event Date":"01/06/16"
+    ,"Event Year":2016
+    ,"District/Sector":"N"
+    ,"Zone/Beat":"N1"
+    ,"Longitude":-122.36202
+    ,"Latitude":47.70296
+  },
+  {
+     "General Offense Number":20167241
+    ,"Event Clearance Code":62
+    ,"Event Clearance Description":"BICYCLE THEFT"
+    ,"Event Date":"01/07/16"
+    ,"Event Year":2016
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S3"
+    ,"Longitude":-122.264725
+    ,"Latitude":47.512585
+  },
+  {
+     "General Offense Number":20167694
+    ,"Event Clearance Code":62
+    ,"Event Clearance Description":"BICYCLE THEFT"
+    ,"Event Date":"01/07/16"
+    ,"Event Year":2016
+    ,"District/Sector":"B"
+    ,"Zone/Beat":"B2"
+    ,"Longitude":-122.36969
+    ,"Latitude":47.66147
+  },
+  {
+     "General Offense Number":20168187
+    ,"Event Clearance Code":62
+    ,"Event Clearance Description":"BICYCLE THEFT"
+    ,"Event Date":"01/08/16"
+    ,"Event Year":2016
+    ,"District/Sector":"O"
+    ,"Zone/Beat":"O2"
+    ,"Longitude":-122.329056
+    ,"Latitude":47.578766
+  },
+  {
+     "General Offense Number":20168904
+    ,"Event Clearance Code":62
+    ,"Event Clearance Description":"BICYCLE THEFT"
+    ,"Event Date":"01/08/16"
+    ,"Event Year":2016
+    ,"District/Sector":"M"
+    ,"Zone/Beat":"M2"
+    ,"Longitude":-122.33426
+    ,"Latitude":47.6126
+  },
+  {
+     "General Offense Number":2016464
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/01/16"
+    ,"Event Year":2016
+    ,"District/Sector":"S"
+    ,"Zone/Beat":"S3"
+    ,"Longitude":-122.25986
+    ,"Latitude":47.510426
+  },
+  {
+     "General Offense Number":2016429
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/01/16"
+    ,"Event Year":2016
+    ,"District/Sector":"N"
+    ,"Zone/Beat":"N3"
+    ,"Longitude":-122.337616
+    ,"Latitude":47.696873
+  },
+  {
+     "General Offense Number":2016598
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/01/16"
+    ,"Event Year":2016
+    ,"District/Sector":"L"
+    ,"Zone/Beat":"L1"
+    ,"Longitude":-122.296524
+    ,"Latitude":47.73325
+  },
+  {
+     "General Offense Number":2016709
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/01/16"
+    ,"Event Year":2016
+    ,"District/Sector":"E"
+    ,"Zone/Beat":"E3"
+    ,"Longitude":-122.32292
+    ,"Latitude":47.610264
+  },
+  {
+     "General Offense Number":2016720
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/01/16"
+    ,"Event Year":2016
+    ,"District/Sector":"K"
+    ,"Zone/Beat":"K2"
+    ,"Longitude":-122.33327
+    ,"Latitude":47.596783
+  },
+  {
+     "General Offense Number":2016480
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/01/16"
+    ,"Event Year":2016
+    ,"District/Sector":"B"
+    ,"Zone/Beat":"B1"
+    ,"Longitude":-122.38474
+    ,"Latitude":47.675285
+  },
+  {
+     "General Offense Number":2016753
+    ,"Event Clearance Code":71
+    ,"Event Clearance Description":"AUTO THEFT"
+    ,"Event Date":"01/01/16"
+    ,"Event Year":2016
+    ,"District/Sector":"D"
+    ,"Zone/Beat":"D2"
+    ,"Longitude":-122.33975
+    ,"Latitude":47.623215
+  },
+  {
+     "General Offense Number":2016108046
+    ,"Event Clearance Code":49
+    ,"Event Clearance Description":"ASSAULTS, GANG RELATED"
+    ,"Event Date":"03/29/16"
+    ,"Event Year":2016
+    ,"District/Sector":"F"
+    ,"Zone/Beat":"F2"
+    ,"Longitude":-122.35647
+    ,"Latitude":47.52103
+  },
+  {
+     "General Offense Number":2016144197
+    ,"Event Clearance Code":49
+    ,"Event Clearance Description":"ASSAULTS, GANG RELATED"
+    ,"Event Date":"04/26/16"
+    ,"Event Year":2016
+    ,"District/Sector":"F"
+    ,"Zone/Beat":"F3"
+    ,"Longitude":-122.34931
+    ,"Latitude":47.528316
+  },
+  {
+     "General Offense Number":20163288
+    ,"Event Clearance Code":30
+    ,"Event Clearance Description":"ARMED ROBBERY"
+    ,"Event Date":"01/04/16"
+    ,"Event Year":2016
+    ,"District/Sector":"U"
+    ,"Zone/Beat":"U1"
+    ,"Longitude":-122.320435
+    ,"Latitude":47.675854
+  },
+  {
+     "General Offense Number":20164017
+    ,"Event Clearance Code":30
+    ,"Event Clearance Description":"ARMED ROBBERY"
+    ,"Event Date":"01/04/16"
+    ,"Event Year":2016
+    ,"District/Sector":"L"
+    ,"Zone/Beat":"L2"
+    ,"Longitude":-122.32583
+    ,"Latitude":47.702236
+  },
+  {
+     "General Offense Number":20164338
+    ,"Event Clearance Code":30
+    ,"Event Clearance Description":"ARMED ROBBERY"
+    ,"Event Date":"01/05/16"
+    ,"Event Year":2016
+    ,"District/Sector":"F"
+    ,"Zone/Beat":"F1"
+    ,"Longitude":-122.3591
+    ,"Latitude":47.567467
+  },
+  {
+     "General Offense Number":20165291
+    ,"Event Clearance Code":30
+    ,"Event Clearance Description":"ARMED ROBBERY"
+    ,"Event Date":"01/05/16"
+    ,"Event Year":2016
+    ,"District/Sector":"M"
+    ,"Zone/Beat":"M2"
+    ,"Longitude":-122.33593
+    ,"Latitude":47.611904
+  },
+  {
+     "General Offense Number":20166874
+    ,"Event Clearance Code":30
+    ,"Event Clearance Description":"ARMED ROBBERY"
+    ,"Event Date":"01/07/16"
+    ,"Event Year":2016
+    ,"District/Sector":"K"
+    ,"Zone/Beat":"K3"
+    ,"Longitude":-122.32571
+    ,"Latitude":47.599194
+  },
+  {
+     "General Offense Number":20167984
+    ,"Event Clearance Code":30
+    ,"Event Clearance Description":"ARMED ROBBERY"
+    ,"Event Date":"01/07/16"
+    ,"Event Year":2016
+    ,"District/Sector":"C"
+    ,"Zone/Beat":"C3"
+    ,"Longitude":-122.31146
+    ,"Latitude":47.615044
+  },
+  {
+     "General Offense Number":20168266
+    ,"Event Clearance Code":30
+    ,"Event Clearance Description":"ARMED ROBBERY"
+    ,"Event Date":"01/08/16"
+    ,"Event Year":2016
+    ,"District/Sector":"J"
+    ,"Zone/Beat":"J3"
+    ,"Longitude":-122.34452
+    ,"Latitude":47.6902
+  }]
